@@ -1,0 +1,5736 @@
+0
+00:00:03,632 --> 00:00:06,880
+ALYSSA GOODMAN: So, Rebecca, welcome to PredictionX.
+
+1
+00:00:06,880 --> 00:00:08,720
+Thank you so much for joining us.
+
+2
+00:00:08,720 --> 00:00:11,200
+And we usually ask our guests to introduce themselves,
+
+3
+00:00:11,200 --> 00:00:15,630
+so please go ahead and explain your role and interests.
+
+4
+00:00:15,630 --> 00:00:17,630
+REBECCA HENDERSON: My name is Rebecca Henderson.
+
+5
+00:00:17,630 --> 00:00:21,310
+I'm a professor at the Harvard Business School at Harvard University.
+
+6
+00:00:21,310 --> 00:00:27,580
+Ever since I was 21, I've been obsessed with large companies that cannot seem
+
+7
+00:00:27,580 --> 00:00:29,900
+to respond to change.
+
+8
+00:00:29,900 --> 00:00:33,400
+I spent 20 years at MIT, a lot of it as the Eastman Kodak
+
+9
+00:00:33,400 --> 00:00:34,870
+professor of management.
+
+10
+00:00:34,870 --> 00:00:37,180
+That was a coincidence, but a deeply ironic one.
+
+11
+00:00:37,180 --> 00:00:39,100
+Because that's what I studied.
+
+12
+00:00:39,100 --> 00:00:43,030
+And just about the time Kodak went bankrupt, I moved to Harvard.
+
+13
+00:00:43,030 --> 00:00:44,780
+And I've been at Harvard for 10 years now.
+
+14
+00:00:44,780 --> 00:00:47,412
+ALYSSA GOODMAN: No coordination between Kodak going bankrupt?
+
+15
+00:00:47,412 --> 00:00:49,370
+REBECCA HENDERSON: It's a complete coincidence.
+
+16
+00:00:49,370 --> 00:00:50,428
+ALYSSA GOODMAN: OK, just checking.
+
+17
+00:00:50,428 --> 00:00:51,304
+Just checking.
+
+18
+00:00:51,304 --> 00:00:52,370
+Just checking.
+
+19
+00:00:52,370 --> 00:00:52,870
+Great.
+
+20
+00:00:52,870 --> 00:00:55,090
+And so as you know, today I was hoping that you
+
+21
+00:00:55,090 --> 00:00:58,450
+would serve as our expert or one of our experts
+
+22
+00:00:58,450 --> 00:01:04,360
+about how business firms use predictions in their short-term and long-term
+
+23
+00:01:04,360 --> 00:01:05,990
+planning.
+
+24
+00:01:05,990 --> 00:01:08,560
+REBECCA HENDERSON: So business in general uses predictions
+
+25
+00:01:08,560 --> 00:01:10,850
+in two kinds of ways.
+
+26
+00:01:10,850 --> 00:01:14,060
+And I think it's really important to differentiate between them.
+
+27
+00:01:14,060 --> 00:01:19,010
+One is what we might call in using predictions in business as usual.
+
+28
+00:01:19,010 --> 00:01:22,870
+So suppose I'm trying to understand how many computers I sell this year
+
+29
+00:01:22,870 --> 00:01:25,720
+or how many soybeans I can expect to grow.
+
+30
+00:01:25,720 --> 00:01:29,620
+There will be groups inside every significant firm that's
+
+31
+00:01:29,620 --> 00:01:33,740
+using state of the art models to try and predict that future.
+
+32
+00:01:33,740 --> 00:01:38,230
+And in that sense, the future tends to be well defined, fairly narrow,
+
+33
+00:01:38,230 --> 00:01:39,220
+and fairly short term.
+
+34
+00:01:39,220 --> 00:01:41,650
+ALYSSA GOODMAN: And the models are based on their past experience?
+
+35
+00:01:41,650 --> 00:01:42,775
+REBECCA HENDERSON: Usually.
+
+36
+00:01:42,775 --> 00:01:45,280
+I mean, all the talk about big data and so on-- firms
+
+37
+00:01:45,280 --> 00:01:47,410
+are trying to make these models more sophisticated.
+
+38
+00:01:47,410 --> 00:01:50,080
+But they're essentially extrapolations of the past.
+
+39
+00:01:50,080 --> 00:01:51,310
+ALYSSA GOODMAN: And this would be what we would today
+
+40
+00:01:51,310 --> 00:01:52,570
+call data science, the kind of--
+
+41
+00:01:52,570 --> 00:01:52,870
+REBECCA HENDERSON: Yes.
+
+42
+00:01:52,870 --> 00:01:53,950
+ALYSSA GOODMAN: --process that they're doing.
+
+43
+00:01:53,950 --> 00:01:55,075
+REBECCA HENDERSON: Exactly.
+
+44
+00:01:55,075 --> 00:01:56,320
+Exactly.
+
+45
+00:01:56,320 --> 00:01:58,180
+And then there's another class of models.
+
+46
+00:01:58,180 --> 00:01:59,590
+And of course, there's a spectrum here.
+
+47
+00:01:59,590 --> 00:02:01,110
+And in practice, these blend in to each other.
+
+48
+00:02:01,110 --> 00:02:03,100
+But there's another class of models which
+
+49
+00:02:03,100 --> 00:02:08,027
+is, how do we predict what might be really different from today?
+
+50
+00:02:08,027 --> 00:02:11,110
+So a concrete example of that would be the challenge facing the automobile
+
+51
+00:02:11,110 --> 00:02:12,610
+industry today.
+
+52
+00:02:12,610 --> 00:02:16,270
+They know that a number of major changes are coming down
+
+53
+00:02:16,270 --> 00:02:19,270
+the pike towards them, including autonomous vehicles,
+
+54
+00:02:19,270 --> 00:02:22,750
+the switch to electrification.
+
+55
+00:02:22,750 --> 00:02:25,240
+And those interact with each other.
+
+56
+00:02:25,240 --> 00:02:27,220
+And nobody knows the timing.
+
+57
+00:02:27,220 --> 00:02:31,180
+And those are sort of major strategic predictions about the direction
+
+58
+00:02:31,180 --> 00:02:32,630
+of the whole market.
+
+59
+00:02:32,630 --> 00:02:35,038
+And that's really a different thing.
+
+60
+00:02:35,038 --> 00:02:38,080
+That's very different from the, what is the price of soybeans model going
+
+61
+00:02:38,080 --> 00:02:38,813
+to be?
+
+62
+00:02:38,813 --> 00:02:41,480
+And I know much more about the second than I do about the first.
+
+63
+00:02:41,480 --> 00:02:41,760
+ALYSSA GOODMAN: Right.
+
+64
+00:02:41,760 --> 00:02:42,040
+OK.
+
+65
+00:02:42,040 --> 00:02:43,060
+REBECCA HENDERSON: So in our time together,
+
+66
+00:02:43,060 --> 00:02:46,120
+I'd really like to talk about prediction in the context
+
+67
+00:02:46,120 --> 00:02:47,590
+of these major strategic decisions.
+
+68
+00:02:47,590 --> 00:02:48,590
+ALYSSA GOODMAN: Perfect.
+
+69
+00:02:48,590 --> 00:02:49,090
+Great.
+
+70
+00:02:49,090 --> 00:02:50,180
+That would be great.
+
+71
+00:02:50,180 --> 00:02:57,490
+And so if we want to talk about climate as our prime example to start with,
+
+72
+00:02:57,490 --> 00:03:01,270
+what sort of the range of-- what kind of companies, or firms,
+
+73
+00:03:01,270 --> 00:03:03,770
+or what particular examples, if you want to give them,
+
+74
+00:03:03,770 --> 00:03:08,470
+are thinking the most deeply about medium and long-term plans?
+
+75
+00:03:08,470 --> 00:03:12,640
+And what strategies do you think don't work in terms of people
+
+76
+00:03:12,640 --> 00:03:16,610
+aren't thinking about it enough or they're not planning in the right way?
+
+77
+00:03:16,610 --> 00:03:19,750
+REBECCA HENDERSON: So there's a whole range of people
+
+78
+00:03:19,750 --> 00:03:23,140
+thinking about climate seriously.
+
+79
+00:03:23,140 --> 00:03:27,460
+In general, you've got people in the insurance industry
+
+80
+00:03:27,460 --> 00:03:31,300
+who are thinking about long-term risks and what they can insure.
+
+81
+00:03:31,300 --> 00:03:34,540
+You're looking at people in the energy industry who are wondering
+
+82
+00:03:34,540 --> 00:03:36,820
+what kinds of power plants to build.
+
+83
+00:03:36,820 --> 00:03:39,820
+ALYSSA GOODMAN: And these are people who stand to potentially make money
+
+84
+00:03:39,820 --> 00:03:40,330
+if they get it right.
+
+85
+00:03:40,330 --> 00:03:41,230
+REBECCA HENDERSON: Or lose money.
+
+86
+00:03:41,230 --> 00:03:42,365
+ALYSSA GOODMAN: Or lose money if they don't.
+
+87
+00:03:42,365 --> 00:03:44,860
+REBECCA HENDERSON: Mostly, the existing players
+
+88
+00:03:44,860 --> 00:03:48,460
+are at risk from a major accelerated transition.
+
+89
+00:03:48,460 --> 00:03:50,800
+Then there's a whole group of new players
+
+90
+00:03:50,800 --> 00:03:54,402
+who are keen to sell the stuff that will fix climate change.
+
+91
+00:03:54,402 --> 00:03:56,110
+ALYSSA GOODMAN: Things like solar panels.
+
+92
+00:03:56,110 --> 00:04:00,490
+REBECCA HENDERSON: Solar panels, more efficient buildings,
+
+93
+00:04:00,490 --> 00:04:02,170
+better water usage.
+
+94
+00:04:02,170 --> 00:04:04,220
+Because we're going to run low on water.
+
+95
+00:04:04,220 --> 00:04:06,700
+So there's a whole industry of firms who are thinking,
+
+96
+00:04:06,700 --> 00:04:08,520
+we have solutions to climate change.
+
+97
+00:04:08,520 --> 00:04:10,990
+And so they're very concerned with what might happen.
+
+98
+00:04:10,990 --> 00:04:14,050
+There's the food industry, because climate change
+
+99
+00:04:14,050 --> 00:04:17,120
+has such enormous implications for the supply chain and food.
+
+100
+00:04:17,120 --> 00:04:17,950
+ALYSSA GOODMAN: And does it matter?
+
+101
+00:04:17,950 --> 00:04:20,680
+I mean-- because you know there is this distinction between actual climate
+
+102
+00:04:20,680 --> 00:04:23,740
+change and slowing climate change where something like solar panels
+
+103
+00:04:23,740 --> 00:04:26,800
+might make a difference and then climate change mitigation,
+
+104
+00:04:26,800 --> 00:04:31,000
+where you know something like being prepared for water shortages
+
+105
+00:04:31,000 --> 00:04:32,000
+would make a difference.
+
+106
+00:04:32,000 --> 00:04:37,450
+And so is there any difference in the approaches to those actual climate
+
+107
+00:04:37,450 --> 00:04:41,410
+change, versus climate change mitigation strategies, or it's all one?
+
+108
+00:04:41,410 --> 00:04:43,370
+REBECCA HENDERSON: That's really interesting.
+
+109
+00:04:43,370 --> 00:04:47,860
+And one of the things I want to talk about is large segments of the business
+
+110
+00:04:47,860 --> 00:04:53,360
+community continue to act as if climate change isn't really going to happen.
+
+111
+00:04:53,360 --> 00:04:56,800
+And that's not because they don't think climate change is going to happen.
+
+112
+00:04:56,800 --> 00:05:00,612
+It's because you have an enormous pull towards business as usual.
+
+113
+00:05:00,612 --> 00:05:03,570
+I mean, if you're a business person, and you're trying to make payroll,
+
+114
+00:05:03,570 --> 00:05:08,730
+and you're trying to keep the lights on, you're an entrepreneur,
+
+115
+00:05:08,730 --> 00:05:13,120
+you're living this, you have to be continually focused on today,
+
+116
+00:05:13,120 --> 00:05:15,270
+right now, the next three months.
+
+117
+00:05:15,270 --> 00:05:17,660
+And so thinking about longer time frames and the ideas
+
+118
+00:05:17,660 --> 00:05:21,840
+that the world might be really different is surprisingly
+
+119
+00:05:21,840 --> 00:05:24,540
+difficult in an organizational context.
+
+120
+00:05:24,540 --> 00:05:27,780
+And climate change is difficult for that reason,
+
+121
+00:05:27,780 --> 00:05:30,490
+because it's happening sometime in the future.
+
+122
+00:05:30,490 --> 00:05:31,620
+And it's invisible.
+
+123
+00:05:31,620 --> 00:05:34,770
+And, yes, I read the predictions, but how good are they?
+
+124
+00:05:34,770 --> 00:05:38,655
+So they're relatively easy to ignore if it's not right in your face.
+
+125
+00:05:38,655 --> 00:05:40,685
+ALYSSA GOODMAN: Exactly.
+
+126
+00:05:40,685 --> 00:05:42,310
+REBECCA HENDERSON: So that's one issue.
+
+127
+00:05:42,310 --> 00:05:45,750
+And the reason I bring this up is, yes, there
+
+128
+00:05:45,750 --> 00:05:48,480
+are firms beginning to think about mitigation.
+
+129
+00:05:48,480 --> 00:05:51,510
+But far more people are thinking about how
+
+130
+00:05:51,510 --> 00:05:55,020
+to stop climate change than how to mitigate it,
+
+131
+00:05:55,020 --> 00:05:59,432
+partly because thinking about mitigation is very emotionally wrenching, right?
+
+132
+00:05:59,432 --> 00:06:01,140
+ALYSSA GOODMAN: It's like we're done for.
+
+133
+00:06:01,140 --> 00:06:03,900
+We have to just stop the damage.
+
+134
+00:06:03,900 --> 00:06:07,320
+REBECCA HENDERSON: I mean, we know that a fair amount of warning is locked in.
+
+135
+00:06:07,320 --> 00:06:10,403
+And so people thinking about heavy infrastructure who are thinking they're
+
+136
+00:06:10,403 --> 00:06:12,390
+going to build barriers across Boston Harbor.
+
+137
+00:06:12,390 --> 00:06:15,000
+People are beginning-- design that and think about it.
+
+138
+00:06:15,000 --> 00:06:19,620
+People in the food industry where you're already seeing droughts and floods.
+
+139
+00:06:19,620 --> 00:06:23,100
+So a lot of conversation about, how do we maintain the food supply
+
+140
+00:06:23,100 --> 00:06:25,360
+in the face of these kinds of shifts?
+
+141
+00:06:25,360 --> 00:06:27,780
+But the big money, until quite recently, has
+
+142
+00:06:27,780 --> 00:06:32,327
+gone into renewable energy, trying to stop it happening.
+
+143
+00:06:32,327 --> 00:06:35,160
+ALYSSA GOODMAN: And how much progress you think is being made there?
+
+144
+00:06:37,960 --> 00:06:40,290
+REBECCA HENDERSON: So the prices of renewable energy,
+
+145
+00:06:40,290 --> 00:06:43,020
+the costs of renewable energy has dropped much faster than anyone
+
+146
+00:06:43,020 --> 00:06:45,863
+expected I was a technology booster.
+
+147
+00:06:45,863 --> 00:06:47,280
+I mean, I was at MIT for 20 years.
+
+148
+00:06:47,280 --> 00:06:50,580
+I spent a lot of time telling people that if we got serious about climate,
+
+149
+00:06:50,580 --> 00:06:54,810
+that the technology would get better a lot faster than anyone thought.
+
+150
+00:06:54,810 --> 00:06:56,930
+But it's got better, faster even than that.
+
+151
+00:06:56,930 --> 00:06:57,820
+ALYSSA GOODMAN: That is good news.
+
+152
+00:06:57,820 --> 00:06:59,528
+REBECCA HENDERSON: It's really good news.
+
+153
+00:06:59,528 --> 00:07:01,860
+And in fact, when you're looking to build a new power
+
+154
+00:07:01,860 --> 00:07:04,590
+plant in many parts of the world now, you
+
+155
+00:07:04,590 --> 00:07:07,110
+would build renewable before you built fossil,
+
+156
+00:07:07,110 --> 00:07:10,140
+even without accounting for the health costs of fossil fuels.
+
+157
+00:07:10,140 --> 00:07:11,640
+ALYSSA GOODMAN: And without accounting for subsidies.
+
+158
+00:07:11,640 --> 00:07:12,973
+REBECCA HENDERSON: And without--
+
+159
+00:07:12,973 --> 00:07:14,610
+yes, without accounting for subsidies.
+
+160
+00:07:14,610 --> 00:07:16,390
+Again, it has to be particular areas.
+
+161
+00:07:16,390 --> 00:07:21,990
+But we're now routinely seeing solar and wind quoted on a per kilowatt hour
+
+162
+00:07:21,990 --> 00:07:23,477
+basis below fossil fuels.
+
+163
+00:07:23,477 --> 00:07:25,310
+ALYSSA GOODMAN: One of the things that we're
+
+164
+00:07:25,310 --> 00:07:29,400
+going to talk about with Dan Kammen is we asked him.
+
+165
+00:07:29,400 --> 00:07:32,580
+So we have a series called The Undiscovered
+
+166
+00:07:32,580 --> 00:07:35,922
+at Radcliffe, which is about scientific discoveries that
+
+167
+00:07:35,922 --> 00:07:39,130
+weren't quite completely surprises, but you're sort of looking for something.
+
+168
+00:07:39,130 --> 00:07:41,520
+But then you find something kind of unexpected.
+
+169
+00:07:41,520 --> 00:07:46,980
+And so one of the examples that we use is talking about Malthus and Malthus
+
+170
+00:07:46,980 --> 00:07:48,990
+saying that the whole world was going to starve.
+
+171
+00:07:48,990 --> 00:07:51,420
+Because he couldn't possibly-- when calculating the food
+
+172
+00:07:51,420 --> 00:07:55,710
+supply and the population growth in making a forecast,
+
+173
+00:07:55,710 --> 00:07:57,840
+couldn't anticipate nitrogen fertilizer.
+
+174
+00:07:57,840 --> 00:07:59,940
+And so the nitrogen fertilizer comes along.
+
+175
+00:07:59,940 --> 00:08:02,150
+And suddenly, the food supply is completely changed.
+
+176
+00:08:02,150 --> 00:08:03,900
+And so one of the questions we want to ask
+
+177
+00:08:03,900 --> 00:08:07,850
+Dan, who's thought about these kind of things sometimes, is,
+
+178
+00:08:07,850 --> 00:08:10,590
+is there some technology out there that has the potential
+
+179
+00:08:10,590 --> 00:08:13,460
+to be the nitrogen fertilizer for climate?
+
+180
+00:08:13,460 --> 00:08:15,760
+And so in the businesses you've talked to about this,
+
+181
+00:08:15,760 --> 00:08:18,600
+does anybody think that they have some kind of solution like that?
+
+182
+00:08:18,600 --> 00:08:20,585
+Or is it just that all of them might go just--
+
+183
+00:08:20,585 --> 00:08:23,460
+or many of them would go a little bit faster and a little bit faster?
+
+184
+00:08:23,460 --> 00:08:25,890
+Or is there going to be some magic thing that no one thought of?
+
+185
+00:08:25,890 --> 00:08:28,598
+REBECCA HENDERSON: So I ask engineers and scientists in this area
+
+186
+00:08:28,598 --> 00:08:29,650
+all the time.
+
+187
+00:08:29,650 --> 00:08:34,049
+And no one thinks there's some amazing discontinuity.
+
+188
+00:08:34,049 --> 00:08:36,336
+The most obvious candidate would be fusion power.
+
+189
+00:08:36,336 --> 00:08:37,169
+ALYSSA GOODMAN: Yes.
+
+190
+00:08:37,169 --> 00:08:39,419
+REBECCA HENDERSON: And there are venture capitalists continuing
+
+191
+00:08:39,419 --> 00:08:40,799
+to fund investment in fusion.
+
+192
+00:08:40,799 --> 00:08:43,679
+ALYSSA GOODMAN: I was an undergraduate 30-something years ago.
+
+193
+00:08:43,679 --> 00:08:47,188
+And in my hall monitor was working on fusion power a MIT.
+
+194
+00:08:47,188 --> 00:08:49,230
+REBECCA HENDERSON: So I know a venture capitalist
+
+195
+00:08:49,230 --> 00:08:53,160
+who's part of a consortium that's put over $800 million into a fusion plant.
+
+196
+00:08:53,160 --> 00:08:56,020
+I mean, he really thinks this time it's going to happen.
+
+197
+00:08:56,020 --> 00:08:58,470
+I think-- I mean, let's hope it does.
+
+198
+00:08:58,470 --> 00:09:00,250
+I think the odds are low.
+
+199
+00:09:00,250 --> 00:09:04,050
+I do think there's a broader phenomenon there which your question gets out,
+
+200
+00:09:04,050 --> 00:09:06,390
+which I call techno fantacism.
+
+201
+00:09:06,390 --> 00:09:09,972
+A lot of people I know refuse to think about climate change,
+
+202
+00:09:09,972 --> 00:09:11,180
+because they assume if it's--
+
+203
+00:09:11,180 --> 00:09:11,610
+ALYSSA GOODMAN: Some miracle.
+
+204
+00:09:11,610 --> 00:09:14,250
+REBECCA HENDERSON: --really bad, something will happen.
+
+205
+00:09:14,250 --> 00:09:17,092
+Human beings are intensely creative and productive.
+
+206
+00:09:17,092 --> 00:09:18,300
+We'll come up with something.
+
+207
+00:09:18,300 --> 00:09:19,260
+ALYSSA GOODMAN: We'll go to Mars.
+
+208
+00:09:19,260 --> 00:09:21,635
+REBECCA HENDERSON: And they don't understand the feedback
+
+209
+00:09:21,635 --> 00:09:23,140
+effects inherent in climate change.
+
+210
+00:09:23,140 --> 00:09:25,230
+And they don't understand the stock flow problem.
+
+211
+00:09:25,230 --> 00:09:27,355
+ALYSSA GOODMAN: Let's talk about that a little bit,
+
+212
+00:09:27,355 --> 00:09:29,492
+about these feedback effects and prediction.
+
+213
+00:09:29,492 --> 00:09:32,200
+REBECCA HENDERSON: Well, so these are two separate things, right?
+
+214
+00:09:32,200 --> 00:09:33,330
+ALYSSA GOODMAN: But I meant in the modeling.
+
+215
+00:09:33,330 --> 00:09:34,280
+REBECCA HENDERSON: Oh, in the feedback effects?
+
+216
+00:09:34,280 --> 00:09:34,560
+ALYSSA GOODMAN: Yeah, yeah.
+
+217
+00:09:34,560 --> 00:09:35,602
+REBECCA HENDERSON: Right.
+
+218
+00:09:35,602 --> 00:09:38,160
+Well, you'll want a scientist in here.
+
+219
+00:09:38,160 --> 00:09:40,375
+But I know enough to be dangerous.
+
+220
+00:09:40,375 --> 00:09:42,750
+The issue with climate change that makes it really tricky
+
+221
+00:09:42,750 --> 00:09:46,150
+is there may be discontinuities caused by feedback effects.
+
+222
+00:09:46,150 --> 00:09:50,020
+So the most obvious is the frozen methane in the northern tundra.
+
+223
+00:09:50,020 --> 00:09:53,760
+So there's an enormous amount of methane buried in the northern tundra
+
+224
+00:09:53,760 --> 00:09:54,840
+if the climate heats up--
+
+225
+00:09:54,840 --> 00:09:55,920
+ALYSSA GOODMAN: Under the permafrost?
+
+226
+00:09:55,920 --> 00:09:56,910
+REBECCA HENDERSON: --under the permafrost.
+
+227
+00:09:56,910 --> 00:09:59,710
+There's a lot of methane buried under the permafrost
+
+228
+00:09:59,710 --> 00:10:03,300
+and also, under the sea in so-called methane clathrates.
+
+229
+00:10:03,300 --> 00:10:08,880
+And if the climate heats up sufficiently to unfreeze this methane,
+
+230
+00:10:08,880 --> 00:10:12,630
+it will be like a huge shot of greenhouse gases
+
+231
+00:10:12,630 --> 00:10:17,790
+into the environment in ways that will kind of do
+
+232
+00:10:17,790 --> 00:10:20,243
+a massive increase in warming.
+
+233
+00:10:20,243 --> 00:10:22,410
+And once you've got the massive increase in warming,
+
+234
+00:10:22,410 --> 00:10:25,680
+then you get other kinds of feedback effects coming in,
+
+235
+00:10:25,680 --> 00:10:28,230
+like the ice might start melting faster.
+
+236
+00:10:28,230 --> 00:10:31,170
+And so, yes, maybe we'll lose Greenland and the Antarctic ice shelf
+
+237
+00:10:31,170 --> 00:10:33,460
+faster than we had anticipated.
+
+238
+00:10:33,460 --> 00:10:36,240
+And then these become reinforcing feedbacks.
+
+239
+00:10:36,240 --> 00:10:41,310
+And humans are terrible at internal models of effects.
+
+240
+00:10:41,310 --> 00:10:44,675
+And it's very interesting.
+
+241
+00:10:44,675 --> 00:10:46,300
+Can I show you one of the tools I use--
+
+242
+00:10:46,300 --> 00:10:46,410
+ALYSSA GOODMAN: Yeah.
+
+243
+00:10:46,410 --> 00:10:47,850
+REBECCA HENDERSON: --to try and get business people to think about--
+
+244
+00:10:47,850 --> 00:10:48,100
+ALYSSA GOODMAN: Please.
+
+245
+00:10:48,100 --> 00:10:48,520
+REBECCA HENDERSON: --discontinuities--
+
+246
+00:10:48,520 --> 00:10:49,440
+ALYSSA GOODMAN: Sure.
+
+247
+00:10:49,440 --> 00:10:50,208
+Show us.
+
+248
+00:10:50,208 --> 00:10:53,250
+REBECCA HENDERSON: --and how the future might be different from the past?
+
+249
+00:10:53,250 --> 00:10:53,720
+ALYSSA GOODMAN: Definitely.
+
+250
+00:10:53,720 --> 00:10:55,928
+REBECCA HENDERSON: So this is a very simple technique
+
+251
+00:10:55,928 --> 00:10:58,190
+derived from the work of Peter Schwartz who
+
+252
+00:10:58,190 --> 00:11:00,750
+was working at the Shell Oil Company.
+
+253
+00:11:00,750 --> 00:11:03,840
+And he was trying to get the people in the company to think about the fact
+
+254
+00:11:03,840 --> 00:11:06,090
+that the price of oil might be very different tomorrow
+
+255
+00:11:06,090 --> 00:11:07,680
+than it had been historically.
+
+256
+00:11:07,680 --> 00:11:10,500
+And most of us on a day-to-day basis assume that the future
+
+257
+00:11:10,500 --> 00:11:12,420
+will be pretty much like the past.
+
+258
+00:11:12,420 --> 00:11:16,230
+So what you do with this technique is you pull a bunch of managers
+
+259
+00:11:16,230 --> 00:11:17,580
+into the room.
+
+260
+00:11:17,580 --> 00:11:22,410
+And you ask them, tell me, what is it you're really worried about?
+
+261
+00:11:22,410 --> 00:11:25,777
+What is it that you mostly suppress, because you don't want to think about
+
+262
+00:11:25,777 --> 00:11:27,360
+and could really change your business?
+
+263
+00:11:27,360 --> 00:11:28,990
+ALYSSA GOODMAN: Involving what would happen in the future?
+
+264
+00:11:28,990 --> 00:11:30,032
+REBECCA HENDERSON: Right.
+
+265
+00:11:30,032 --> 00:11:35,190
+So for example, if you're an energy company,
+
+266
+00:11:35,190 --> 00:11:38,010
+might there be real global carbon regulation or even
+
+267
+00:11:38,010 --> 00:11:39,900
+strong local carbon regulation?
+
+268
+00:11:39,900 --> 00:11:42,540
+Or if you're an energy company, how quickly
+
+269
+00:11:42,540 --> 00:11:44,760
+will the price of renewables fall?
+
+270
+00:11:44,760 --> 00:11:48,060
+Or if you're a food company, will consumers really
+
+271
+00:11:48,060 --> 00:11:52,810
+care about whether you're growing climate-friendly organic food or not?
+
+272
+00:11:52,810 --> 00:11:54,840
+So these major, major uncertainties.
+
+273
+00:11:54,840 --> 00:12:00,570
+And the first time I did this, I was doing it about the future of MIT
+
+274
+00:12:00,570 --> 00:12:01,870
+as an educational institution.
+
+275
+00:12:01,870 --> 00:12:04,380
+We covered the entire wall with major uncertainties.
+
+276
+00:12:04,380 --> 00:12:06,590
+We didn't want to think about it.
+
+277
+00:12:06,590 --> 00:12:09,070
+And that typically is what happens when you do this.
+
+278
+00:12:09,070 --> 00:12:10,920
+So then you take each uncertainty.
+
+279
+00:12:10,920 --> 00:12:14,160
+Get the group to choose the two that are most critical.
+
+280
+00:12:14,160 --> 00:12:19,260
+And the way to get at that is you say, if someone from the future could visit,
+
+281
+00:12:19,260 --> 00:12:22,475
+like someone from the future is about to walk into this room, what
+
+282
+00:12:22,475 --> 00:12:25,350
+are the two questions that you really want to know the answer to that
+
+283
+00:12:25,350 --> 00:12:25,920
+make a big difference--
+
+284
+00:12:25,920 --> 00:12:26,210
+ALYSSA GOODMAN: In events.
+
+285
+00:12:26,210 --> 00:12:26,920
+REBECCA HENDERSON: --to the future of your business?
+
+286
+00:12:26,920 --> 00:12:27,270
+ALYSSA GOODMAN: Right.
+
+287
+00:12:27,270 --> 00:12:27,660
+Great.
+
+288
+00:12:27,660 --> 00:12:29,577
+REBECCA HENDERSON: So if you're a car company,
+
+289
+00:12:29,577 --> 00:12:30,930
+do we have autonomous vehicles?
+
+290
+00:12:30,930 --> 00:12:32,470
+Did that work out?
+
+291
+00:12:32,470 --> 00:12:35,430
+And electric vehicles-- did we fix the storage problem?
+
+292
+00:12:35,430 --> 00:12:37,260
+Has the grid electrified and when?
+
+293
+00:12:37,260 --> 00:12:39,060
+So those would be the obvious questions.
+
+294
+00:12:39,060 --> 00:12:40,470
+You then take those questions.
+
+295
+00:12:40,470 --> 00:12:44,522
+And you draw a two by two matrix.
+
+296
+00:12:44,522 --> 00:12:46,230
+Now, I appreciate you're talking to a lot
+
+297
+00:12:46,230 --> 00:12:49,058
+of very sophisticated experts in this.
+
+298
+00:12:49,058 --> 00:12:50,850
+ALYSSA GOODMAN: I like two by two matrixes.
+
+299
+00:12:50,850 --> 00:12:51,620
+This is good.
+
+300
+00:12:51,620 --> 00:12:54,510
+REBECCA HENDERSON: But this is a way of just really communicating
+
+301
+00:12:54,510 --> 00:12:56,770
+big groups of people very clearly.
+
+302
+00:12:56,770 --> 00:13:01,710
+So let's take, for example, are we going to get carbon regulation in the future?
+
+303
+00:13:01,710 --> 00:13:05,990
+So we say no carbon regulation.
+
+304
+00:13:05,990 --> 00:13:12,540
+And then we have yes, carbon regulation.
+
+305
+00:13:12,540 --> 00:13:18,780
+And then let's have renewable energy, is really just a niche.
+
+306
+00:13:18,780 --> 00:13:20,490
+The costs never go down far enough.
+
+307
+00:13:20,490 --> 00:13:22,740
+And we never really fixed the distributional problems.
+
+308
+00:13:22,740 --> 00:13:24,150
+And we still have a base load power problem.
+
+309
+00:13:24,150 --> 00:13:25,200
+ALYSSA GOODMAN: Not broadly adopted.
+
+310
+00:13:25,200 --> 00:13:26,240
+REBECCA HENDERSON: Not broadly adopted.
+
+311
+00:13:26,240 --> 00:13:26,300
+ALYSSA GOODMAN: Got it.
+
+312
+00:13:26,300 --> 00:13:26,800
+OK.
+
+313
+00:13:26,800 --> 00:13:32,640
+REBECCA HENDERSON: And this is renewable energy is cheap and easy, OK?
+
+314
+00:13:32,640 --> 00:13:34,860
+And you have to be clear what frame you're asking.
+
+315
+00:13:34,860 --> 00:13:38,250
+So you say, OK, I want you to imagine it's 10 years from now.
+
+316
+00:13:38,250 --> 00:13:40,020
+And what do you think this is?
+
+317
+00:13:40,020 --> 00:13:43,740
+And you get the group itself to generate the odds.
+
+318
+00:13:43,740 --> 00:13:45,358
+You don't go out and get experts.
+
+319
+00:13:45,358 --> 00:13:46,150
+What you could do--
+
+320
+00:13:46,150 --> 00:13:46,280
+ALYSSA GOODMAN: You just say--
+
+321
+00:13:46,280 --> 00:13:46,530
+REBECCA HENDERSON: But you say--
+
+322
+00:13:46,530 --> 00:13:46,760
+ALYSSA GOODMAN: --what do they think?
+
+323
+00:13:46,760 --> 00:13:48,385
+REBECCA HENDERSON: --what do you think?
+
+324
+00:13:48,385 --> 00:13:50,520
+What do you really believe are the odds here?
+
+325
+00:13:50,520 --> 00:13:53,670
+And I did this analysis with a whole bunch of energy companies
+
+326
+00:13:53,670 --> 00:13:55,290
+five, six years ago.
+
+327
+00:13:55,290 --> 00:13:58,720
+And you would typically get no carbon regulation.
+
+328
+00:13:58,720 --> 00:13:59,970
+That's what's going to happen.
+
+329
+00:13:59,970 --> 00:14:03,190
+All this talk about carbon regulation-- not in my lifetime.
+
+330
+00:14:03,190 --> 00:14:05,010
+It's some greenie plot.
+
+331
+00:14:05,010 --> 00:14:09,810
+And then renewable energy is going to be cheap and easy.
+
+332
+00:14:09,810 --> 00:14:11,890
+It's like, give me a break.
+
+333
+00:14:11,890 --> 00:14:14,445
+Maybe in whenever.
+
+334
+00:14:14,445 --> 00:14:16,820
+But if you ask people five years ago, they were like, ha,
+
+335
+00:14:16,820 --> 00:14:18,960
+I don't really think so.
+
+336
+00:14:18,960 --> 00:14:22,110
+And so you get people to generate their own odds.
+
+337
+00:14:22,110 --> 00:14:26,130
+And one of the things about these odds, which is nearly always the case,
+
+338
+00:14:26,130 --> 00:14:28,345
+is that they are more skewed than the general public.
+
+339
+00:14:28,345 --> 00:14:30,220
+ALYSSA GOODMAN: Toward the business as usual.
+
+340
+00:14:30,220 --> 00:14:31,178
+REBECCA HENDERSON: Yes.
+
+341
+00:14:31,178 --> 00:14:34,170
+So when I show my students this, they're like, you're kidding.
+
+342
+00:14:34,170 --> 00:14:36,872
+They really thought this was the future?
+
+343
+00:14:36,872 --> 00:14:40,080
+But the thing is you have to work with the psychological biases [INAUDIBLE]..
+
+344
+00:14:40,080 --> 00:14:40,860
+ALYSSA GOODMAN: Exactly.
+
+345
+00:14:40,860 --> 00:14:41,360
+Exactly.
+
+346
+00:14:41,360 --> 00:14:43,910
+We've covered that a lot in talking about predictions.
+
+347
+00:14:43,910 --> 00:14:45,710
+REBECCA HENDERSON: OK, so this is exactly the same dynamic.
+
+348
+00:14:45,710 --> 00:14:46,600
+ALYSSA GOODMAN: Exactly.
+
+349
+00:14:46,600 --> 00:14:48,767
+REBECCA HENDERSON: And what's going on with this two
+
+350
+00:14:48,767 --> 00:14:54,125
+by two, as you will immediately see, is that this is business as usual.
+
+351
+00:14:54,125 --> 00:14:55,500
+This is go away, don't bother me.
+
+352
+00:14:55,500 --> 00:14:56,792
+We're going to succeed forever.
+
+353
+00:14:56,792 --> 00:14:58,440
+ALYSSA GOODMAN: Which is the 70/70.
+
+354
+00:14:58,440 --> 00:15:03,020
+REBECCA HENDERSON: And that is 49% odds.
+
+355
+00:15:03,020 --> 00:15:06,202
+And this, which we might call green paradise--
+
+356
+00:15:06,202 --> 00:15:08,060
+ALYSSA GOODMAN: It's 9%.
+
+357
+00:15:08,060 --> 00:15:10,030
+REBECCA HENDERSON: --is 9%.
+
+358
+00:15:10,030 --> 00:15:12,530
+So there's a couple of really interesting things about this.
+
+359
+00:15:12,530 --> 00:15:13,050
+One.
+
+360
+00:15:13,050 --> 00:15:16,580
+Is this sort of green paradise with these odds
+
+361
+00:15:16,580 --> 00:15:18,680
+is indeed a low probability event.
+
+362
+00:15:18,680 --> 00:15:21,570
+And that's the psychological thing that's going on in people's heads,
+
+363
+00:15:21,570 --> 00:15:23,403
+is there's not going to be a green paradise.
+
+364
+00:15:23,403 --> 00:15:25,560
+Go away and stop bothering me.
+
+365
+00:15:25,560 --> 00:15:30,030
+But the other thing that's going on here is business as usual is less than 50%.
+
+366
+00:15:30,030 --> 00:15:34,025
+And if you can get a group of business executives to see this and internalize
+
+367
+00:15:34,025 --> 00:15:35,900
+this on uncertainties they chose themselves--
+
+368
+00:15:35,900 --> 00:15:36,670
+ALYSSA GOODMAN: Then they have to accept change.
+
+369
+00:15:36,670 --> 00:15:38,837
+REBECCA HENDERSON: ----[INAUDIBLE] chose themselves.
+
+370
+00:15:38,837 --> 00:15:41,270
+Then they go, oh.
+
+371
+00:15:41,270 --> 00:15:44,240
+And so I sometimes think of my whole research career
+
+372
+00:15:44,240 --> 00:15:47,540
+as about, how do you make the idea that the future might
+
+373
+00:15:47,540 --> 00:15:49,340
+be different from the past?
+
+374
+00:15:49,340 --> 00:15:51,133
+Really salient in everyday practice.
+
+375
+00:15:51,133 --> 00:15:52,550
+ALYSSA GOODMAN: Well, part of it--
+
+376
+00:15:52,550 --> 00:15:54,440
+I think because people want to know what that future is.
+
+377
+00:15:54,440 --> 00:15:57,070
+It's like the person coming through the door and telling you the answers,
+
+378
+00:15:57,070 --> 00:15:57,200
+right?
+
+379
+00:15:57,200 --> 00:15:59,810
+REBECCA HENDERSON: And they want to know the specific future.
+
+380
+00:15:59,810 --> 00:16:02,300
+And what this tool does is begin to go-- to open up
+
+381
+00:16:02,300 --> 00:16:05,690
+where we could have cheap renewables, but not carbon regulation.
+
+382
+00:16:05,690 --> 00:16:06,800
+What would that be like?
+
+383
+00:16:06,800 --> 00:16:09,920
+We might have carbon regulation, but expensive renewables.
+
+384
+00:16:09,920 --> 00:16:14,240
+So it really kind of makes it easier to think about the future in more
+
+385
+00:16:14,240 --> 00:16:16,340
+complicated, narrative ways.
+
+386
+00:16:16,340 --> 00:16:18,650
+ALYSSA GOODMAN: And you mentioned that there
+
+387
+00:16:18,650 --> 00:16:21,380
+are some socially responsible investors who
+
+388
+00:16:21,380 --> 00:16:24,740
+are really interested in asking the leaders of these firms
+
+389
+00:16:24,740 --> 00:16:27,790
+to say, what is your plan under these scenarios?
+
+390
+00:16:27,790 --> 00:16:29,040
+REBECCA HENDERSON: Absolutely.
+
+391
+00:16:29,040 --> 00:16:31,770
+And this is the interesting part is you can make predictions.
+
+392
+00:16:31,770 --> 00:16:35,480
+And you can have some cool person come in and give you the science.
+
+393
+00:16:35,480 --> 00:16:37,650
+But getting the organization to act on it requires,
+
+394
+00:16:37,650 --> 00:16:41,610
+OK, let's have a team that focuses on, is this going to happen?
+
+395
+00:16:41,610 --> 00:16:43,470
+And let's learn more about it.
+
+396
+00:16:43,470 --> 00:16:47,150
+And so you've got a group of socially responsible investors walking
+
+397
+00:16:47,150 --> 00:16:51,020
+into these large fossil fuel companies, food companies, construction
+
+398
+00:16:51,020 --> 00:16:53,390
+companies, insurance companies and saying,
+
+399
+00:16:53,390 --> 00:16:55,760
+OK, the science is pretty clear.
+
+400
+00:16:55,760 --> 00:16:57,350
+The world is heating up.
+
+401
+00:16:57,350 --> 00:16:59,240
+How is your business going to change?
+
+402
+00:16:59,240 --> 00:17:02,000
+And they're trying to trigger exactly this kind of moment,
+
+403
+00:17:02,000 --> 00:17:04,160
+which is to get the organization to sit down and pay attention to it.
+
+404
+00:17:04,160 --> 00:17:06,410
+ALYSSA GOODMAN: And not to get too much into politics.
+
+405
+00:17:06,410 --> 00:17:10,280
+But does it matter whether the people at these firms,
+
+406
+00:17:10,280 --> 00:17:13,520
+who have to make the decisions about the direction of the company,
+
+407
+00:17:13,520 --> 00:17:16,819
+believe that it's human caused climate change, or that it's not?
+
+408
+00:17:16,819 --> 00:17:18,859
+Because obviously, if it's human caused, we
+
+409
+00:17:18,859 --> 00:17:22,253
+can maybe do something more about stopping it than if it's not.
+
+410
+00:17:22,253 --> 00:17:24,170
+And so that should figure into their strategy.
+
+411
+00:17:24,170 --> 00:17:29,630
+And so I'm just curious whether the kind of political mood
+
+412
+00:17:29,630 --> 00:17:31,590
+changes the way people make these predictions.
+
+413
+00:17:31,590 --> 00:17:35,030
+REBECCA HENDERSON: So I talk mostly to larger corporations.
+
+414
+00:17:35,030 --> 00:17:39,020
+I have not met a single person from a large corporation
+
+415
+00:17:39,020 --> 00:17:42,710
+who doesn't believe that climate change is real and human caused.
+
+416
+00:17:42,710 --> 00:17:44,910
+Everybody knows it's happening.
+
+417
+00:17:44,910 --> 00:17:47,252
+The question is getting anybody to act on it.
+
+418
+00:17:47,252 --> 00:17:48,460
+ALYSSA GOODMAN: That's right.
+
+419
+00:17:48,460 --> 00:17:49,210
+Well, some of it--
+
+420
+00:17:49,210 --> 00:17:50,540
+I mean, what I see--
+
+421
+00:17:50,540 --> 00:17:53,330
+and even-- I'll just say a very short little story.
+
+422
+00:17:53,330 --> 00:17:54,110
+There's somebody.
+
+423
+00:17:54,110 --> 00:17:55,223
+I hope he's still with us.
+
+424
+00:17:55,223 --> 00:17:56,390
+His name is Arthur Kleinman.
+
+425
+00:17:56,390 --> 00:17:58,550
+And he used to be a professor at the-- or he still
+
+426
+00:17:58,550 --> 00:18:00,883
+is at the medical school in the anthropology department.
+
+427
+00:18:00,883 --> 00:18:02,990
+And he wrote a book about despair.
+
+428
+00:18:02,990 --> 00:18:05,030
+And he gave a talk once that I went to.
+
+429
+00:18:05,030 --> 00:18:08,450
+And one of the examples he gave was a psychological condition
+
+430
+00:18:08,450 --> 00:18:12,770
+where people are rationally afraid of everything, which
+
+431
+00:18:12,770 --> 00:18:14,600
+would make them unable to go outside.
+
+432
+00:18:14,600 --> 00:18:17,780
+So if you read every newspaper article and you said your toothpaste
+
+433
+00:18:17,780 --> 00:18:18,890
+could be contaminated.
+
+434
+00:18:18,890 --> 00:18:21,980
+You could get hit by a car when you stepped into the street.
+
+435
+00:18:21,980 --> 00:18:25,370
+You could get skin cancer from the sun, on and on and on.
+
+436
+00:18:25,370 --> 00:18:28,940
+And he said that what humans need in order to go on
+
+437
+00:18:28,940 --> 00:18:31,360
+is an appropriate level of denial, that you actually
+
+438
+00:18:31,360 --> 00:18:34,610
+have to tell yourself that some of these things aren't going to happen to you.
+
+439
+00:18:34,610 --> 00:18:36,422
+And statistically, that's true.
+
+440
+00:18:36,422 --> 00:18:38,130
+Not everything is going to happen to you.
+
+441
+00:18:38,130 --> 00:18:40,730
+But if you took the worst case scenario of everything,
+
+442
+00:18:40,730 --> 00:18:42,230
+you would just not go outside.
+
+443
+00:18:42,230 --> 00:18:47,030
+And so I see that some people when they think about climate change are just--
+
+444
+00:18:47,030 --> 00:18:48,768
+they just think we're, screwed.
+
+445
+00:18:48,768 --> 00:18:50,060
+What are we going to do anyway?
+
+446
+00:18:50,060 --> 00:18:53,007
+I'll just keep living and live it up my last days.
+
+447
+00:18:53,007 --> 00:18:54,965
+And they don't think about their grandchildren.
+
+448
+00:18:54,965 --> 00:18:56,132
+REBECCA HENDERSON: Well, no.
+
+449
+00:18:56,132 --> 00:18:59,870
+And you get a form of death anxiety and despair,
+
+450
+00:18:59,870 --> 00:19:02,630
+particularly because people feel they have no agency, right?
+
+451
+00:19:02,630 --> 00:19:05,300
+There's nothing they can do, so why think about it?
+
+452
+00:19:05,300 --> 00:19:06,830
+But that's at the individual level.
+
+453
+00:19:06,830 --> 00:19:10,700
+The large companies-- so one of the things that really puzzles me about
+
+454
+00:19:10,700 --> 00:19:16,130
+climate change in business is why we haven't historically seen a stronger
+
+455
+00:19:16,130 --> 00:19:20,780
+movement among the heads of the world's largest corporations to insist
+
+456
+00:19:20,780 --> 00:19:23,863
+on climate regulation and to insist on a price for carbon or a tax--
+
+457
+00:19:23,863 --> 00:19:25,280
+ALYSSA GOODMAN: A global climate--
+
+458
+00:19:25,280 --> 00:19:25,610
+REBECCA HENDERSON: --for carbon.
+
+459
+00:19:25,610 --> 00:19:25,865
+ALYSSA GOODMAN: --regulation?
+
+460
+00:19:25,865 --> 00:19:27,830
+REBECCA HENDERSON: A global climate regulation.
+
+461
+00:19:27,830 --> 00:19:31,670
+Because if your business collectively-- so here's the issue.
+
+462
+00:19:31,670 --> 00:19:36,320
+Collectively, business clearly has a strong economic case
+
+463
+00:19:36,320 --> 00:19:38,720
+for acting to prevent or ameliorate climate change.
+
+464
+00:19:38,720 --> 00:19:39,420
+ALYSSA GOODMAN: Of course.
+
+465
+00:19:39,420 --> 00:19:42,080
+REBECCA HENDERSON: Because it's not good for business in the long term.
+
+466
+00:19:42,080 --> 00:19:44,600
+The trouble is you'd say, well, it's a collective case, right?
+
+467
+00:19:44,600 --> 00:19:46,600
+ALYSSA GOODMAN: And the problem is if one person does it, then
+
+468
+00:19:46,600 --> 00:19:48,200
+the other person-- yes, exactly.
+
+469
+00:19:48,200 --> 00:19:50,590
+REBECCA HENDERSON: You can put solar panels on your roof,
+
+470
+00:19:50,590 --> 00:19:51,680
+but I'm not going to bother.
+
+471
+00:19:51,680 --> 00:19:54,930
+Because you're the one that's paying to drive the technology down the learning
+
+472
+00:19:54,930 --> 00:19:55,620
+curve.
+
+473
+00:19:55,620 --> 00:19:58,120
+I'm just going to wait until it's cheap, and then I'll move.
+
+474
+00:19:58,120 --> 00:19:59,360
+ALYSSA GOODMAN: There's a name for that in game theory.
+
+475
+00:19:59,360 --> 00:20:00,892
+I'm trying to remember what it is.
+
+476
+00:20:00,892 --> 00:20:02,850
+REBECCA HENDERSON: It's the free rider problem.
+
+477
+00:20:02,850 --> 00:20:03,850
+ALYSSA GOODMAN: It's the free rider problem.
+
+478
+00:20:03,850 --> 00:20:06,267
+REBECCA HENDERSON: This is a huge temptation to free ride.
+
+479
+00:20:06,267 --> 00:20:08,600
+So you have to somehow coordinate everyone in moving.
+
+480
+00:20:08,600 --> 00:20:11,120
+And that sounds kind of difficult. But it turns out
+
+481
+00:20:11,120 --> 00:20:13,808
+that a thousand firms are roughly--
+
+482
+00:20:13,808 --> 00:20:15,100
+depends on how you measure it--
+
+483
+00:20:15,100 --> 00:20:16,783
+70% of the world's GDP.
+
+484
+00:20:16,783 --> 00:20:18,200
+ALYSSA GOODMAN: So if they agreed.
+
+485
+00:20:18,200 --> 00:20:21,310
+REBECCA HENDERSON: So could you imagine that 300 CEOs?
+
+486
+00:20:21,310 --> 00:20:23,630
+And we know a hundred.
+
+487
+00:20:23,630 --> 00:20:26,690
+There's a project sponsored by some investors called the Global Climate
+
+488
+00:20:26,690 --> 00:20:30,170
+100, which is targeting the 100 largest emitters.
+
+489
+00:20:30,170 --> 00:20:33,080
+If you could get them to move, you'd make a huge difference
+
+490
+00:20:33,080 --> 00:20:35,630
+on the whole platform.
+
+491
+00:20:35,630 --> 00:20:39,770
+So there's a really interesting issue here about the individual firm
+
+492
+00:20:39,770 --> 00:20:43,280
+responding to predictions and then the business community
+
+493
+00:20:43,280 --> 00:20:44,960
+as a whole looking at this prediction.
+
+494
+00:20:44,960 --> 00:20:47,690
+I haven't met anyone who doesn't think it's going to be an issue
+
+495
+00:20:47,690 --> 00:20:50,250
+and trying to trigger that kind of collective action.
+
+496
+00:20:50,250 --> 00:20:53,910
+ALYSSA GOODMAN: And what about tapping into their employees own values
+
+497
+00:20:53,910 --> 00:20:56,340
+and their employees own opinions about all of this?
+
+498
+00:20:56,340 --> 00:20:56,850
+What do they do there?
+
+499
+00:20:56,850 --> 00:21:00,058
+REBECCA HENDERSON: Well, so there's a really interesting question here, which
+
+500
+00:21:00,058 --> 00:21:04,500
+is even individual firm's response to climate change
+
+501
+00:21:04,500 --> 00:21:06,860
+and the way they think about using these predictions
+
+502
+00:21:06,860 --> 00:21:10,617
+shaped by their values or their perception of their employees' values.
+
+503
+00:21:10,617 --> 00:21:11,450
+ALYSSA GOODMAN: Yes.
+
+504
+00:21:11,450 --> 00:21:12,080
+Yes.
+
+505
+00:21:12,080 --> 00:21:15,110
+REBECCA HENDERSON: And the answer to that is absolutely yes.
+
+506
+00:21:15,110 --> 00:21:18,950
+And I think there are three kinds of firms we might want to talk about.
+
+507
+00:21:18,950 --> 00:21:21,680
+There's the firm where the CEO believes that climate change is
+
+508
+00:21:21,680 --> 00:21:24,230
+an existential threat to the future of the planet
+
+509
+00:21:24,230 --> 00:21:27,020
+and probably to the future of his or her business.
+
+510
+00:21:27,020 --> 00:21:32,360
+And it turns out that those are the firms that took the risk to move first.
+
+511
+00:21:32,360 --> 00:21:37,052
+So Walmart, for example, had for many years more solar panels
+
+512
+00:21:37,052 --> 00:21:39,260
+installed than any other entity in the United States.
+
+513
+00:21:39,260 --> 00:21:41,150
+ALYSSA GOODMAN: Walmart-- which is associated
+
+514
+00:21:41,150 --> 00:21:42,905
+with a lot of red America [INAUDIBLE].
+
+515
+00:21:42,905 --> 00:21:44,030
+REBECCA HENDERSON: Exactly.
+
+516
+00:21:44,030 --> 00:21:46,380
+No, because they looked at what was happening.
+
+517
+00:21:46,380 --> 00:21:47,760
+They wanted to make a difference.
+
+518
+00:21:47,760 --> 00:21:50,030
+They could do the long-term economics.
+
+519
+00:21:50,030 --> 00:21:52,100
+They could see it made sense.
+
+520
+00:21:52,100 --> 00:21:54,860
+Or Paul Polman at Unilever, who could see what climate change was
+
+521
+00:21:54,860 --> 00:21:58,250
+going to do to the food supply and to the lives of the most
+
+522
+00:21:58,250 --> 00:21:59,570
+vulnerable people.
+
+523
+00:21:59,570 --> 00:22:02,980
+And so he made-- started making very serious investments early on.
+
+524
+00:22:02,980 --> 00:22:04,970
+And that was driven by--
+
+525
+00:22:04,970 --> 00:22:06,980
+and it's this-- in the context of business,
+
+526
+00:22:06,980 --> 00:22:07,880
+it's always really interesting.
+
+527
+00:22:07,880 --> 00:22:10,130
+Because you can't just impose your moral vision on a company.
+
+528
+00:22:10,130 --> 00:22:11,720
+That wouldn't be at all appropriate.
+
+529
+00:22:11,720 --> 00:22:14,330
+But every business decision is shot through with uncertainty.
+
+530
+00:22:14,330 --> 00:22:17,150
+Do I take this prediction seriously?
+
+531
+00:22:17,150 --> 00:22:18,710
+What kind of rating do I give it?
+
+532
+00:22:18,710 --> 00:22:20,210
+What kind of weighting do I give it?
+
+533
+00:22:20,210 --> 00:22:21,890
+How do I think about the future?
+
+534
+00:22:21,890 --> 00:22:26,120
+Those people who are really strongly aware of climate change
+
+535
+00:22:26,120 --> 00:22:30,920
+because they feel it's a real threat, and that we have a moral responsibility
+
+536
+00:22:30,920 --> 00:22:34,423
+act, have been much more likely to see the economic opportunities.
+
+537
+00:22:34,423 --> 00:22:36,590
+ALYSSA GOODMAN: Now, I'm not sure this is a fair way
+
+538
+00:22:36,590 --> 00:22:39,560
+to ask this question, because it's not really, exactly your field.
+
+539
+00:22:39,560 --> 00:22:45,350
+But in the financial crisis, my people, the physicists,
+
+540
+00:22:45,350 --> 00:22:50,360
+were blamed for creating the models that the bankers who
+
+541
+00:22:50,360 --> 00:22:53,660
+were trained more traditionally didn't understand, but went ahead and applied.
+
+542
+00:22:53,660 --> 00:22:56,430
+Because they saw that in the short term, they were making money.
+
+543
+00:22:56,430 --> 00:22:59,960
+And so those physicists and mathematicians, as we both know,
+
+544
+00:22:59,960 --> 00:23:00,767
+get called quants.
+
+545
+00:23:00,767 --> 00:23:03,350
+And so somewhere in these companies that you're talking about,
+
+546
+00:23:03,350 --> 00:23:05,480
+even the very sort of socially responsible ones,
+
+547
+00:23:05,480 --> 00:23:07,160
+there's a bunch of quants.
+
+548
+00:23:07,160 --> 00:23:10,850
+Or they bring in people who are making these sophisticated models that we'll
+
+549
+00:23:10,850 --> 00:23:13,190
+talk about in other parts of PredictionX.
+
+550
+00:23:13,190 --> 00:23:18,140
+And my question is how much of the leaderships' and the employees'
+
+551
+00:23:18,140 --> 00:23:22,160
+response to what they think is going to happen with climate change
+
+552
+00:23:22,160 --> 00:23:26,950
+is guided by modeling that they may not understand.
+
+553
+00:23:26,950 --> 00:23:31,940
+And how much of it is guided by just a kind of value judgment?
+
+554
+00:23:31,940 --> 00:23:35,180
+That these people who I think I trust as scientists are saying something
+
+555
+00:23:35,180 --> 00:23:36,800
+really terrible is going to happen.
+
+556
+00:23:36,800 --> 00:23:38,423
+And I could do something about it.
+
+557
+00:23:38,423 --> 00:23:39,840
+So I should do something about it.
+
+558
+00:23:39,840 --> 00:23:42,700
+And so I guess part of the motivation for all of PredictionX
+
+559
+00:23:42,700 --> 00:23:46,400
+is to get people to understand how models of climate change are made
+
+560
+00:23:46,400 --> 00:23:49,220
+and how uncertainty is calculated, associated with them,
+
+561
+00:23:49,220 --> 00:23:52,430
+and even, as I showed you earlier, uncertainty with the weather forecast.
+
+562
+00:23:52,430 --> 00:23:54,143
+And how much uncertainty is there?
+
+563
+00:23:54,143 --> 00:23:55,310
+And we can make predictions.
+
+564
+00:23:55,310 --> 00:23:56,510
+We're not sure.
+
+565
+00:23:56,510 --> 00:23:58,600
+That doesn't mean it's not going to happen.
+
+566
+00:23:58,600 --> 00:24:01,400
+And so my question is kind of, how important is it
+
+567
+00:24:01,400 --> 00:24:04,970
+to both the leaders and the people who are working
+
+568
+00:24:04,970 --> 00:24:08,840
+to make this happen at other levels, to understand
+
+569
+00:24:08,840 --> 00:24:11,450
+the quantitative modeling of the climate,
+
+570
+00:24:11,450 --> 00:24:15,710
+as opposed to just that people they might trust or hopefully trust
+
+571
+00:24:15,710 --> 00:24:18,140
+are telling them something terrible is going to happen?
+
+572
+00:24:18,140 --> 00:24:20,150
+And just to go back to what I was saying,
+
+573
+00:24:20,150 --> 00:24:26,305
+the banking situation was that the bankers wanted to trust the quants.
+
+574
+00:24:26,305 --> 00:24:29,180
+Because they were telling them, you could make money if you did this.
+
+575
+00:24:29,180 --> 00:24:32,370
+And the short run, they weren't making money if they did that.
+
+576
+00:24:32,370 --> 00:24:35,780
+But now, if you trust the sort of climate equivalent of quants,
+
+577
+00:24:35,780 --> 00:24:39,345
+they're saying disaster looms if you do nothing.
+
+578
+00:24:39,345 --> 00:24:41,220
+And they don't want to hear that information.
+
+579
+00:24:41,220 --> 00:24:43,910
+And so is the response different to those kind of predictions
+
+580
+00:24:43,910 --> 00:24:45,540
+than they were to the financial prediction?
+
+581
+00:24:45,540 --> 00:24:46,590
+REBECCA HENDERSON: It's really interesting.
+
+582
+00:24:46,590 --> 00:24:48,500
+I hadn't thought about it this way.
+
+583
+00:24:48,500 --> 00:24:50,780
+But I think we could, at a very high level,
+
+584
+00:24:50,780 --> 00:24:55,430
+divide the way business use models into two phases.
+
+585
+00:24:55,430 --> 00:25:00,110
+In the early phase, it was some people I trust say something really bad
+
+586
+00:25:00,110 --> 00:25:01,920
+is going to happen.
+
+587
+00:25:01,920 --> 00:25:07,130
+And I can do something about it at no cost to myself.
+
+588
+00:25:07,130 --> 00:25:12,620
+So it turned out that saving energy, reducing energy usage,
+
+589
+00:25:12,620 --> 00:25:16,550
+and gradually moving into renewables was not more
+
+590
+00:25:16,550 --> 00:25:18,635
+expensive than doing business as usual.
+
+591
+00:25:18,635 --> 00:25:19,760
+ALYSSA GOODMAN: So why not?
+
+592
+00:25:19,760 --> 00:25:21,530
+REBECCA HENDERSON: So why not?
+
+593
+00:25:21,530 --> 00:25:26,810
+And the sort of, I trust what people say and it's going to be really bad,
+
+594
+00:25:26,810 --> 00:25:30,290
+was so bad that you didn't need to know exactly how bad it was
+
+595
+00:25:30,290 --> 00:25:33,000
+going to be in order to start moving.
+
+596
+00:25:33,000 --> 00:25:34,850
+So that's the first phase.
+
+597
+00:25:34,850 --> 00:25:37,460
+The second phase is people are beginning to get
+
+598
+00:25:37,460 --> 00:25:39,035
+to the edge of what they can do--
+
+599
+00:25:39,035 --> 00:25:40,160
+ALYSSA GOODMAN: Costlessly.
+
+600
+00:25:40,160 --> 00:25:42,620
+REBECCA HENDERSON: --without having to spend extra money.
+
+601
+00:25:42,620 --> 00:25:44,540
+So that gets really interesting.
+
+602
+00:25:44,540 --> 00:25:49,560
+Now, you really want to know, how much do I need to do?
+
+603
+00:25:49,560 --> 00:25:53,020
+And remember, you've got to be sure that everyone else is going to do it, too.
+
+604
+00:25:53,020 --> 00:25:53,740
+ALYSSA GOODMAN: That's this collective.
+
+605
+00:25:53,740 --> 00:25:56,990
+REBECCA HENDERSON: Because we're solving the collective action problem, right?
+
+606
+00:25:56,990 --> 00:25:59,510
+If I'm the only person who invests in renewables,
+
+607
+00:25:59,510 --> 00:26:02,090
+because it's the right thing to do, and I drive up my costs
+
+608
+00:26:02,090 --> 00:26:06,900
+and my competitors do not, I look stupid and possibly out of a job.
+
+609
+00:26:06,900 --> 00:26:11,000
+So what's happening now is that the firms are turning increasingly
+
+610
+00:26:11,000 --> 00:26:11,930
+to the scientists.
+
+611
+00:26:11,930 --> 00:26:16,730
+And they're saying give me what's called a science-based target.
+
+612
+00:26:16,730 --> 00:26:21,800
+I need to know how fast you want me to bring my emissions down in order for us
+
+613
+00:26:21,800 --> 00:26:24,450
+to avoid dangerous warming.
+
+614
+00:26:24,450 --> 00:26:27,210
+And that's really having an effect on the conversation.
+
+615
+00:26:27,210 --> 00:26:29,140
+And that means you really need a good model.
+
+616
+00:26:29,140 --> 00:26:29,420
+ALYSSA GOODMAN: Right.
+
+617
+00:26:29,420 --> 00:26:31,495
+And the problem is that that also has to have
+
+618
+00:26:31,495 --> 00:26:33,620
+a model of what all the other firms are going to do
+
+619
+00:26:33,620 --> 00:26:34,610
+and what governments are going to do.
+
+620
+00:26:34,610 --> 00:26:35,750
+REBECCA HENDERSON: That's a second order thing.
+
+621
+00:26:35,750 --> 00:26:35,990
+ALYSSA GOODMAN: No?
+
+622
+00:26:35,990 --> 00:26:36,380
+Really?
+
+623
+00:26:36,380 --> 00:26:38,213
+REBECCA HENDERSON: Just know for the moment.
+
+624
+00:26:38,213 --> 00:26:40,520
+What is my allowed carbon emission allowance?
+
+625
+00:26:40,520 --> 00:26:41,910
+ALYSSA GOODMAN: But how do you know that if you don't know
+
+626
+00:26:41,910 --> 00:26:43,368
+what everybody else is going to do?
+
+627
+00:26:43,368 --> 00:26:46,550
+REBECCA HENDERSON: Because that's only a question about the physical system.
+
+628
+00:26:46,550 --> 00:26:49,440
+That's not a question about the economic system.
+
+629
+00:26:49,440 --> 00:26:54,560
+So the question is, if we have to limit to 1 and 1/2 degrees of warming,
+
+630
+00:26:54,560 --> 00:26:57,830
+what does the world's emissions have to be?
+
+631
+00:26:57,830 --> 00:26:59,487
+And at what rate do they need to slow?
+
+632
+00:26:59,487 --> 00:27:01,070
+And therefore, I will slow emissions--
+
+633
+00:27:01,070 --> 00:27:01,520
+ALYSSA GOODMAN: Oh.
+
+634
+00:27:01,520 --> 00:27:02,020
+REBECCA HENDERSON: --at that rate.
+
+635
+00:27:02,020 --> 00:27:04,395
+ALYSSA GOODMAN: But that does make an implicit assumption
+
+636
+00:27:04,395 --> 00:27:06,900
+that almost everybody slows at that rate.
+
+637
+00:27:06,900 --> 00:27:10,310
+REBECCA HENDERSON: Well, I wouldn't call it an implicit assumption.
+
+638
+00:27:10,310 --> 00:27:12,373
+I would call it a strategic hope--
+
+639
+00:27:12,373 --> 00:27:13,790
+ALYSSA GOODMAN: OK, that's better.
+
+640
+00:27:13,790 --> 00:27:15,582
+REBECCA HENDERSON: --which you hope will be
+
+641
+00:27:15,582 --> 00:27:23,065
+enforced by your employees and your customers and please your governments.
+
+642
+00:27:23,065 --> 00:27:26,840
+And the sense that nobody else is going to move
+
+643
+00:27:26,840 --> 00:27:28,298
+or not nearly as fast as we'd like.
+
+644
+00:27:28,298 --> 00:27:30,590
+So these leading edge firms are taking the predictions.
+
+645
+00:27:30,590 --> 00:27:32,610
+And they're saying, this is what a science-based target is.
+
+646
+00:27:32,610 --> 00:27:32,750
+ALYSSA GOODMAN: I see.
+
+647
+00:27:32,750 --> 00:27:35,125
+So let me just make sure I understand what you're saying.
+
+648
+00:27:35,125 --> 00:27:37,400
+So let's say that I'm a company.
+
+649
+00:27:37,400 --> 00:27:40,520
+And my level of emissions in some units is 10.
+
+650
+00:27:40,520 --> 00:27:45,080
+And then the prediction is that if we reduced that level-- if everybody
+
+651
+00:27:45,080 --> 00:27:48,020
+reduced their level emissions to 8, we would limit the climate
+
+652
+00:27:48,020 --> 00:27:48,790
+change to 1 and 1/2 degrees.
+
+653
+00:27:48,790 --> 00:27:49,470
+REBECCA HENDERSON: Exactly.
+
+654
+00:27:49,470 --> 00:27:52,012
+ALYSSA GOODMAN: So I'm going to take my emissions that are 10
+
+655
+00:27:52,012 --> 00:27:54,530
+and make it 8 and hope that mostly everybody else is.
+
+656
+00:27:54,530 --> 00:27:56,360
+But I don't have to make it 3.
+
+657
+00:27:56,360 --> 00:27:58,375
+And if I make it 9.99, that's not going to help.
+
+658
+00:27:58,375 --> 00:27:59,500
+REBECCA HENDERSON: Exactly.
+
+659
+00:27:59,500 --> 00:28:01,430
+And in practice, what's happening-- and again,
+
+660
+00:28:01,430 --> 00:28:03,750
+I'm generalizing horribly-- is businesses
+
+661
+00:28:03,750 --> 00:28:08,047
+are coalescing around serious reductions to zero by 2050.
+
+662
+00:28:08,047 --> 00:28:09,630
+ALYSSA GOODMAN: Zero carbon emissions?
+
+663
+00:28:09,630 --> 00:28:11,420
+REBECCA HENDERSON: Zero carbon emissions by 2050.
+
+664
+00:28:11,420 --> 00:28:12,330
+ALYSSA GOODMAN: From energy usage?
+
+665
+00:28:12,330 --> 00:28:13,372
+REBECCA HENDERSON: Right.
+
+666
+00:28:13,372 --> 00:28:16,400
+And of course, the shape of that slope really matters, right?
+
+667
+00:28:16,400 --> 00:28:19,574
+So there's a lot of conversation about what that slope should be.
+
+668
+00:28:19,574 --> 00:28:22,616
+But that's sort of how the conversation is increasingly structured around
+
+669
+00:28:22,616 --> 00:28:22,770
+[INAUDIBLE].
+
+670
+00:28:22,770 --> 00:28:25,100
+ALYSSA GOODMAN: Do you talk to companies through the branches of companies
+
+671
+00:28:25,100 --> 00:28:26,975
+or companies that are based in the developing
+
+672
+00:28:26,975 --> 00:28:28,927
+world where this is a harder problem?
+
+673
+00:28:28,927 --> 00:28:31,010
+REBECCA HENDERSON: That's a really great question.
+
+674
+00:28:31,010 --> 00:28:33,918
+So this problem is both harder and easier in the developing world.
+
+675
+00:28:33,918 --> 00:28:36,960
+ALYSSA GOODMAN: They don't have so much business as usual infrastructure?
+
+676
+00:28:36,960 --> 00:28:40,127
+REBECCA HENDERSON: They don't have so much business as usual infrastructure.
+
+677
+00:28:40,127 --> 00:28:43,470
+And in fact, you can see the effects of climate change much more easily.
+
+678
+00:28:43,470 --> 00:28:47,940
+So if you're in Bangladesh, or you're in the Philippines, or you're in India,
+
+679
+00:28:47,940 --> 00:28:49,920
+you can see these effects.
+
+680
+00:28:49,920 --> 00:28:53,240
+And in fact, one of the energy companies I know that is the most--
+
+681
+00:28:53,240 --> 00:28:56,690
+was the most aggressive was a company based in Hong Kong,
+
+682
+00:28:56,690 --> 00:28:58,675
+a company called CLP.
+
+683
+00:28:58,675 --> 00:29:00,050
+And they were based in Hong Kong.
+
+684
+00:29:00,050 --> 00:29:03,440
+And they were the largest energy provider to Hong Kong,
+
+685
+00:29:03,440 --> 00:29:08,150
+but they had great hopes of branching out and serving other markets.
+
+686
+00:29:08,150 --> 00:29:11,210
+And they agreed as early as 10 years ago to make serious investments
+
+687
+00:29:11,210 --> 00:29:11,810
+in renewables.
+
+688
+00:29:11,810 --> 00:29:13,580
+I mean, they were way ahead of the curve,
+
+689
+00:29:13,580 --> 00:29:15,830
+because they wanted to become the expert in that area.
+
+690
+00:29:15,830 --> 00:29:17,663
+And they thought a lot of new capacity would
+
+691
+00:29:17,663 --> 00:29:19,440
+be brought-- built out in that area.
+
+692
+00:29:19,440 --> 00:29:22,305
+Now, on the other hand, as you would guess,
+
+693
+00:29:22,305 --> 00:29:23,930
+I mean, you do have-- we have no money.
+
+694
+00:29:23,930 --> 00:29:29,060
+It's not our fault. But if you look at where the serious investments were
+
+695
+00:29:29,060 --> 00:29:32,640
+made in solar energy to drive down the cost curves, that was in China.
+
+696
+00:29:32,640 --> 00:29:33,350
+Why?
+
+697
+00:29:33,350 --> 00:29:36,410
+Because China is nearly large enough to internalize the climate
+
+698
+00:29:36,410 --> 00:29:38,280
+change externality.
+
+699
+00:29:38,280 --> 00:29:38,780
+Sorry.
+
+700
+00:29:38,780 --> 00:29:40,058
+That was too jargony.
+
+701
+00:29:40,058 --> 00:29:41,100
+ALYSSA GOODMAN: I got it.
+
+702
+00:29:41,100 --> 00:29:41,780
+But you say it again.
+
+703
+00:29:41,780 --> 00:29:44,280
+REBECCA HENDERSON: Yeah, climate change is sufficiently big,
+
+704
+00:29:44,280 --> 00:29:49,230
+that they can see that even if they have to pay most of the cost of averting it,
+
+705
+00:29:49,230 --> 00:29:50,540
+it's worth averting.
+
+706
+00:29:50,540 --> 00:29:51,980
+Because it's going to have such enormous effect--
+
+707
+00:29:51,980 --> 00:29:52,270
+ALYSSA GOODMAN: An effect upon them.
+
+708
+00:29:52,270 --> 00:29:53,520
+REBECCA HENDERSON: --on China.
+
+709
+00:29:53,520 --> 00:29:55,340
+I mean, the Tibetan Plateau.
+
+710
+00:29:55,340 --> 00:29:56,330
+Glaciers are melting.
+
+711
+00:29:56,330 --> 00:29:58,820
+I mean, there's just horrible effects, and they can see it.
+
+712
+00:29:58,820 --> 00:30:03,183
+So paradoxically, you've got some of the most aggressive actions against climate
+
+713
+00:30:03,183 --> 00:30:04,850
+change going on in the developing world.
+
+714
+00:30:04,850 --> 00:30:05,830
+ALYSSA GOODMAN: It reminds me, actually, a little bit
+
+715
+00:30:05,830 --> 00:30:07,955
+of the situation with cell phones and credit cards,
+
+716
+00:30:07,955 --> 00:30:10,190
+where they don't have so much of an infrastructure.
+
+717
+00:30:10,190 --> 00:30:12,200
+And they wind up having more modern technology.
+
+718
+00:30:12,200 --> 00:30:13,520
+REBECCA HENDERSON: But we have to be really careful.
+
+719
+00:30:13,520 --> 00:30:16,610
+Because I believe China is still building a coal plant a week.
+
+720
+00:30:16,610 --> 00:30:18,110
+ALYSSA GOODMAN: A coal plant a week?
+
+721
+00:30:18,110 --> 00:30:20,120
+REBECCA HENDERSON: That certainly was the rate until quite recently.
+
+722
+00:30:20,120 --> 00:30:20,510
+ALYSSA GOODMAN: Wow.
+
+723
+00:30:20,510 --> 00:30:21,770
+REBECCA HENDERSON: Because coal is so cheap.
+
+724
+00:30:21,770 --> 00:30:22,940
+And it's so easy.
+
+725
+00:30:22,940 --> 00:30:25,633
+And the center doesn't control the periphery in China.
+
+726
+00:30:25,633 --> 00:30:27,800
+So you have local governments with strong incentives
+
+727
+00:30:27,800 --> 00:30:30,950
+to put on line really dirty, cheap energy.
+
+728
+00:30:30,950 --> 00:30:32,750
+And in India, it's a similar dynamic.
+
+729
+00:30:32,750 --> 00:30:34,340
+I mean, India should be all solar.
+
+730
+00:30:34,340 --> 00:30:37,370
+And they're trying, but it's very problematic at the moment.
+
+731
+00:30:37,370 --> 00:30:39,810
+ALYSSA GOODMAN: Do they buy solar panels from China?
+
+732
+00:30:39,810 --> 00:30:40,770
+REBECCA HENDERSON: That's a great question.
+
+733
+00:30:40,770 --> 00:30:41,550
+I don't know the answer.
+
+734
+00:30:41,550 --> 00:30:42,290
+ALYSSA GOODMAN: I don't know either.
+
+735
+00:30:42,290 --> 00:30:43,280
+But that's interesting.
+
+736
+00:30:43,280 --> 00:30:47,510
+Because it's like whether your local industry has an impact
+
+737
+00:30:47,510 --> 00:30:49,640
+and whether there's international perspective.
+
+738
+00:30:49,640 --> 00:30:51,260
+REBECCA HENDERSON: Well, one of the things China was doing
+
+739
+00:30:51,260 --> 00:30:54,200
+was trying to give their local industry an advantage in these new technologies.
+
+740
+00:30:54,200 --> 00:30:55,340
+And they succeeded in doing that.
+
+741
+00:30:55,340 --> 00:30:55,820
+ALYSSA GOODMAN: Right.
+
+742
+00:30:55,820 --> 00:30:59,070
+And now, we have people resisting buying Chinese solar panels in this country.
+
+743
+00:31:01,860 --> 00:31:05,045
+So this actually brings us to a slightly different question, which is not,
+
+744
+00:31:05,045 --> 00:31:06,170
+again, quite up your alley.
+
+745
+00:31:06,170 --> 00:31:07,820
+But I'm curious to know what you're thinking
+
+746
+00:31:07,820 --> 00:31:10,250
+if you want to talk a little bit about the interactions between all
+
+747
+00:31:10,250 --> 00:31:12,167
+the different things that you have to predict,
+
+748
+00:31:12,167 --> 00:31:15,770
+if you wanted to make a proper model of the world's response to climate change.
+
+749
+00:31:15,770 --> 00:31:17,312
+REBECCA HENDERSON: To climate change?
+
+750
+00:31:17,312 --> 00:31:18,707
+ALYSSA GOODMAN: Right.
+
+751
+00:31:18,707 --> 00:31:19,790
+You've thought about this.
+
+752
+00:31:19,790 --> 00:31:20,480
+REBECCA HENDERSON: I have thought about it.
+
+753
+00:31:20,480 --> 00:31:22,220
+ALYSSA GOODMAN: We know no one can actually do this.
+
+754
+00:31:22,220 --> 00:31:23,680
+And that you're not necessarily an expert.
+
+755
+00:31:23,680 --> 00:31:25,847
+REBECCA HENDERSON: And this is not my special field.
+
+756
+00:31:25,847 --> 00:31:27,950
+But of course, I think a lot about this.
+
+757
+00:31:27,950 --> 00:31:32,120
+So first, you would need a physical model
+
+758
+00:31:32,120 --> 00:31:35,750
+of how the physical system is going to respond as we ramp up carbon emissions
+
+759
+00:31:35,750 --> 00:31:37,890
+or cut them.
+
+760
+00:31:37,890 --> 00:31:43,250
+Second, you need a model of the effect of changes
+
+761
+00:31:43,250 --> 00:31:46,520
+in temperature on the Earth's system.
+
+762
+00:31:46,520 --> 00:31:49,370
+What will be the effect on agriculture?
+
+763
+00:31:49,370 --> 00:31:52,460
+What will be the effect on sea level rise?
+
+764
+00:31:52,460 --> 00:31:56,660
+Then you need a model of--
+
+765
+00:31:56,660 --> 00:31:57,960
+several models.
+
+766
+00:31:57,960 --> 00:32:02,653
+One model is, will people move to avert these things?
+
+767
+00:32:02,653 --> 00:32:04,070
+ALYSSA GOODMAN: Or when will they?
+
+768
+00:32:04,070 --> 00:32:05,900
+REBECCA HENDERSON: And if so, when?
+
+769
+00:32:05,900 --> 00:32:08,240
+And how fast will they move?
+
+770
+00:32:08,240 --> 00:32:11,450
+And nobody knows.
+
+771
+00:32:11,450 --> 00:32:14,300
+My belief is if we decided we wanted to do something,
+
+772
+00:32:14,300 --> 00:32:17,390
+we would move much faster and further than anyone expects.
+
+773
+00:32:17,390 --> 00:32:20,360
+I mean, I tell people when I'm really depressed about the future,
+
+774
+00:32:20,360 --> 00:32:23,188
+I pick up economic histories of World War II.
+
+775
+00:32:23,188 --> 00:32:25,980
+Because they show what humans can do when they're really motivated.
+
+776
+00:32:25,980 --> 00:32:29,550
+I mean, the Russians moved their entire industrial infrastructure more than a
+
+777
+00:32:29,550 --> 00:32:31,910
+thousand miles east in like--
+
+778
+00:32:31,910 --> 00:32:34,550
+tell me how quickly they did it, like really fast.
+
+779
+00:32:34,550 --> 00:32:39,280
+So I think we would respond much faster, but that's a huge uncertainty.
+
+780
+00:32:39,280 --> 00:32:42,827
+And we don't know how much money they would put into it.
+
+781
+00:32:42,827 --> 00:32:44,910
+We don't know how fast the technology will change.
+
+782
+00:32:44,910 --> 00:32:46,210
+I mean, maybe there'll be a--
+
+783
+00:32:46,210 --> 00:32:47,960
+we can take carbon out of the air for free
+
+784
+00:32:47,960 --> 00:32:51,680
+and break the second law of thermodynamics, maybe.
+
+785
+00:32:51,680 --> 00:32:53,748
+So that's a big uncertainty.
+
+786
+00:32:53,748 --> 00:32:56,540
+And then there's huge uncertainty about when the effects of climate
+
+787
+00:32:56,540 --> 00:32:57,470
+start to hit.
+
+788
+00:32:57,470 --> 00:33:01,895
+How will that affect the planetary political system?
+
+789
+00:33:01,895 --> 00:33:04,520
+Because there's a whole bunch of risks we haven't talked about,
+
+790
+00:33:04,520 --> 00:33:06,050
+but could interact with climate change.
+
+791
+00:33:06,050 --> 00:33:07,925
+ALYSSA GOODMAN: Wars over water, for example.
+
+792
+00:33:07,925 --> 00:33:12,440
+REBECCA HENDERSON: Wars over water, accelerating probability of pandemics,
+
+793
+00:33:12,440 --> 00:33:14,300
+all kinds of mass migration.
+
+794
+00:33:14,300 --> 00:33:18,050
+The Department of Defense is most worried about mass migration following
+
+795
+00:33:18,050 --> 00:33:18,802
+climate change.
+
+796
+00:33:18,802 --> 00:33:19,760
+There's a report just--
+
+797
+00:33:19,760 --> 00:33:20,780
+ALYSSA GOODMAN: Across international borders--
+
+798
+00:33:20,780 --> 00:33:21,410
+REBECCA HENDERSON: Across international.
+
+799
+00:33:21,410 --> 00:33:22,170
+ALYSSA GOODMAN: --especially quick.
+
+800
+00:33:22,170 --> 00:33:24,050
+REBECCA HENDERSON: I mean, there's a report that was just out this week
+
+801
+00:33:24,050 --> 00:33:27,950
+suggesting that within 30 years, we'll see migration at a scale that
+
+802
+00:33:27,950 --> 00:33:31,640
+makes current day migration look tiny.
+
+803
+00:33:31,640 --> 00:33:32,630
+And will that happen?
+
+804
+00:33:32,630 --> 00:33:35,190
+And how will the world respond?
+
+805
+00:33:35,190 --> 00:33:36,450
+ALYSSA GOODMAN: And of course, if you plan for it in advance,
+
+806
+00:33:36,450 --> 00:33:37,367
+it would be different.
+
+807
+00:33:37,367 --> 00:33:40,160
+And you're going through these things in a systematic way,
+
+808
+00:33:40,160 --> 00:33:41,150
+because you're just listing them.
+
+809
+00:33:41,150 --> 00:33:42,380
+And you're saying then, then, then.
+
+810
+00:33:42,380 --> 00:33:44,240
+But we both know that the truth is that they all
+
+811
+00:33:44,240 --> 00:33:45,225
+interact with each other in real time.
+
+812
+00:33:45,225 --> 00:33:46,910
+REBECCA HENDERSON: They all interact with each other all the time, right?
+
+813
+00:33:46,910 --> 00:33:47,720
+ALYSSA GOODMAN: Right.
+
+814
+00:33:47,720 --> 00:33:50,345
+REBECCA HENDERSON: And we don't know how to predict that at all
+
+815
+00:33:50,345 --> 00:33:51,110
+and which is why--
+
+816
+00:33:51,110 --> 00:33:52,610
+ALYSSA GOODMAN: We should still try.
+
+817
+00:33:52,610 --> 00:33:55,380
+REBECCA HENDERSON: Oh, we should absolutely still try.
+
+818
+00:33:55,380 --> 00:33:58,663
+But I think one of the important things that the models--
+
+819
+00:33:58,663 --> 00:34:00,830
+so I'm sure you talk about this a lot in the course.
+
+820
+00:34:00,830 --> 00:34:03,602
+But effective prediction and motivating behavior
+
+821
+00:34:03,602 --> 00:34:06,185
+is not giving you a point estimate, like the future will be X.
+
+822
+00:34:06,185 --> 00:34:06,820
+ALYSSA GOODMAN: No.
+
+823
+00:34:06,820 --> 00:34:08,570
+REBECCA HENDERSON: It's giving you a sense of the shape of the distribution.
+
+824
+00:34:08,570 --> 00:34:10,612
+Because one of the issues about climate change is
+
+825
+00:34:10,612 --> 00:34:14,100
+there are these awful tail events.
+
+826
+00:34:14,100 --> 00:34:16,760
+One of my colleagues estimated some significant fraction--
+
+827
+00:34:16,760 --> 00:34:17,480
+15%.
+
+828
+00:34:17,480 --> 00:34:19,940
+Civilization ends as we know it.
+
+829
+00:34:19,940 --> 00:34:21,920
+And how do we communicate that?
+
+830
+00:34:21,920 --> 00:34:25,192
+And communicate it in a scientific way or in a way that's intuitive?
+
+831
+00:34:25,192 --> 00:34:28,400
+ALYSSA GOODMAN: Especially if you want to avoid this kind of fatalism problem
+
+832
+00:34:28,400 --> 00:34:32,690
+where the minute people hear there's a 15% chance even that civilization ends.
+
+833
+00:34:32,690 --> 00:34:35,060
+They just think, I should have a party.
+
+834
+00:34:35,060 --> 00:34:37,143
+REBECCA HENDERSON: Well-- and so one of the things
+
+835
+00:34:37,143 --> 00:34:40,637
+we should talk more about in this debate is
+
+836
+00:34:40,637 --> 00:34:43,429
+I published a book called Accelerating Innovation In Energy Lessons
+
+837
+00:34:43,429 --> 00:34:44,346
+From Multiple Sectors.
+
+838
+00:34:44,346 --> 00:34:47,449
+And it was looking at how innovation had been much, much faster
+
+839
+00:34:47,449 --> 00:34:50,239
+in a whole range of sectors than anyone had ever expected.
+
+840
+00:34:50,239 --> 00:34:51,710
+And sort of giving a sense of when prediction
+
+841
+00:34:51,710 --> 00:34:54,210
+is wrong in the positive direction and how that might really
+
+842
+00:34:54,210 --> 00:34:55,679
+help us with climate change.
+
+843
+00:34:55,679 --> 00:34:57,804
+But that doesn't mean we sit around and do nothing.
+
+844
+00:34:57,804 --> 00:35:00,935
+That means we invest to try and find these ways of responding.
+
+845
+00:35:00,935 --> 00:35:01,520
+ALYSSA GOODMAN: That's right.
+
+846
+00:35:01,520 --> 00:35:02,520
+REBECCA HENDERSON: Yeah.
+
+847
+00:35:02,520 --> 00:35:05,462
+And I mean, there are incredibly interesting entrepreneurial firms who
+
+848
+00:35:05,462 --> 00:35:07,420
+are really trying to find the technologies that
+
+849
+00:35:07,420 --> 00:35:10,423
+will make a difference in water, and energy, and sea level rise.
+
+850
+00:35:10,423 --> 00:35:13,090
+ALYSSA GOODMAN: And are any of those firms making money already?
+
+851
+00:35:15,860 --> 00:35:18,320
+REBECCA HENDERSON: So the firms in water--
+
+852
+00:35:18,320 --> 00:35:20,740
+it turns out a lot of our water infrastructure
+
+853
+00:35:20,740 --> 00:35:23,900
+is really inefficiently managed.
+
+854
+00:35:23,900 --> 00:35:25,930
+And so new water saving technologies.
+
+855
+00:35:25,930 --> 00:35:27,638
+That's a huge and rapidly growing market.
+
+856
+00:35:27,638 --> 00:35:30,638
+ALYSSA GOODMAN: And I imagine something having to do with the power grid
+
+857
+00:35:30,638 --> 00:35:31,540
+would be similar.
+
+858
+00:35:31,540 --> 00:35:33,665
+REBECCA HENDERSON: I was going to go to renewables.
+
+859
+00:35:33,665 --> 00:35:37,060
+So manage the utilities more efficiently, really
+
+860
+00:35:37,060 --> 00:35:38,667
+put in place distributed generation.
+
+861
+00:35:38,667 --> 00:35:40,000
+I mean, there's a lot of money--
+
+862
+00:35:40,000 --> 00:35:40,150
+[INTERPOSING VOICES]
+
+863
+00:35:40,150 --> 00:35:42,192
+ALYSSA GOODMAN: So even if you came up with, say,
+
+864
+00:35:42,192 --> 00:35:45,790
+a software project that would change the power generation strategy.
+
+865
+00:35:45,790 --> 00:35:46,590
+And then you--
+
+866
+00:35:46,590 --> 00:35:47,230
+REBECCA HENDERSON: Oh, there are lots--
+
+867
+00:35:47,230 --> 00:35:47,620
+ALYSSA GOODMAN: [INAUDIBLE].
+
+868
+00:35:47,620 --> 00:35:48,060
+REBECCA HENDERSON: --of those.
+
+869
+00:35:48,060 --> 00:35:48,580
+Right.
+
+870
+00:35:48,580 --> 00:35:50,370
+Lots of people investing in that way.
+
+871
+00:35:50,370 --> 00:35:54,847
+Lots of people trying to invest in load balancing, in energy use reduction.
+
+872
+00:35:54,847 --> 00:35:57,430
+We use energy incredibly inefficiently, because it's basically
+
+873
+00:35:57,430 --> 00:35:59,650
+been priced for free.
+
+874
+00:35:59,650 --> 00:36:02,710
+So there's a lot of money to be made in this space.
+
+875
+00:36:02,710 --> 00:36:06,490
+The trouble is you'd love to know, what is the time horizon for when consumers
+
+876
+00:36:06,490 --> 00:36:09,070
+will be willing to make these kinds of investments
+
+877
+00:36:09,070 --> 00:36:13,215
+and when regulators will start to be really excited about these issues?
+
+878
+00:36:13,215 --> 00:36:16,090
+ALYSSA GOODMAN: Where do you get-- and again, this is not necessarily
+
+879
+00:36:16,090 --> 00:36:18,240
+a fair question for you, but I'm just curious.
+
+880
+00:36:18,240 --> 00:36:21,850
+So I've had experiences where somebody holds
+
+881
+00:36:21,850 --> 00:36:26,470
+a particular opinion, whether about health, about politics, about anything.
+
+882
+00:36:26,470 --> 00:36:30,190
+And the only way to change their mind is if something happens either
+
+883
+00:36:30,190 --> 00:36:34,900
+to them personally or somebody in their family that completely shows them
+
+884
+00:36:34,900 --> 00:36:38,047
+that they were wrong, something that they thought wasn't real is real.
+
+885
+00:36:38,047 --> 00:36:40,630
+Or something that they thought was real isn't real, et cetera.
+
+886
+00:36:40,630 --> 00:36:45,130
+And so are there stories you've seen of kind of epiphanies
+
+887
+00:36:45,130 --> 00:36:49,153
+in this way, where a company was sort of living in a kind of denial world
+
+888
+00:36:49,153 --> 00:36:51,820
+and then something happened where they sort of woke up and went,
+
+889
+00:36:51,820 --> 00:36:52,690
+oh, wait a minute.
+
+890
+00:36:52,690 --> 00:36:54,680
+I do have to pay attention to this.
+
+891
+00:36:54,680 --> 00:36:55,600
+REBECCA HENDERSON: So can I assume you're
+
+892
+00:36:55,600 --> 00:36:57,990
+talking to a bunch of people about these kinds of errors?
+
+893
+00:36:57,990 --> 00:36:58,270
+ALYSSA GOODMAN: Yes.
+
+894
+00:36:58,270 --> 00:36:58,540
+Yes.
+
+895
+00:36:58,540 --> 00:37:00,580
+REBECCA HENDERSON: OK, so I don't need to talk about that.
+
+896
+00:37:00,580 --> 00:37:01,820
+But concrete examples.
+
+897
+00:37:01,820 --> 00:37:04,090
+So let me give you a couple.
+
+898
+00:37:04,090 --> 00:37:09,213
+My favorite is a phone call I got about five years ago from a CEO I know well.
+
+899
+00:37:09,213 --> 00:37:11,630
+And he said, Rebecca, you know I think the sustainability,
+
+900
+00:37:11,630 --> 00:37:14,200
+climate change stuff is basically all bullshit.
+
+901
+00:37:14,200 --> 00:37:16,150
+And I said, yeah, Fred.
+
+902
+00:37:16,150 --> 00:37:16,900
+Not his real name.
+
+903
+00:37:16,900 --> 00:37:18,770
+Fred, I know that.
+
+904
+00:37:18,770 --> 00:37:20,330
+And he said, you know what?
+
+905
+00:37:20,330 --> 00:37:23,110
+Everyone I'm trying to hire doesn't think so.
+
+906
+00:37:23,110 --> 00:37:26,350
+So would you come and talk to us about what's going on,
+
+907
+00:37:26,350 --> 00:37:29,390
+and how we might think about it, and how we might respond?
+
+908
+00:37:29,390 --> 00:37:34,225
+And so I know a lot of companies where it was the employees who pushed people
+
+909
+00:37:34,225 --> 00:37:35,350
+into taking this seriously.
+
+910
+00:37:35,350 --> 00:37:36,520
+ALYSSA GOODMAN: I was wondering if that was the case.
+
+911
+00:37:36,520 --> 00:37:37,020
+Yes.
+
+912
+00:37:37,020 --> 00:37:40,180
+REBECCA HENDERSON: I mean, I know one company, a big timber company, which
+
+913
+00:37:40,180 --> 00:37:44,560
+was pushed into harvesting, making a significant change in their policy
+
+914
+00:37:44,560 --> 00:37:47,140
+with regard to old growth forests by the fact
+
+915
+00:37:47,140 --> 00:37:50,530
+that their employees complained that when they went to school meetings,
+
+916
+00:37:50,530 --> 00:37:52,300
+it was too embarrassing--
+
+917
+00:37:52,300 --> 00:37:53,470
+PTA meetings.
+
+918
+00:37:53,470 --> 00:37:56,220
+It was too embarrassing to be working for the company.
+
+919
+00:37:56,220 --> 00:37:57,190
+ALYSSA GOODMAN: Ooh.
+
+920
+00:37:57,190 --> 00:38:02,180
+REBECCA HENDERSON: And you can see that happening across a range of industries.
+
+921
+00:38:02,180 --> 00:38:05,950
+So one of the things that can change is the gestalt about,
+
+922
+00:38:05,950 --> 00:38:08,717
+what is the taken for granted right thing to do?
+
+923
+00:38:08,717 --> 00:38:09,550
+ALYSSA GOODMAN: Yes.
+
+924
+00:38:09,550 --> 00:38:11,800
+REBECCA HENDERSON: I mean, no one would say on camera,
+
+925
+00:38:11,800 --> 00:38:13,060
+I'm going to employ children.
+
+926
+00:38:13,060 --> 00:38:14,110
+Because let's face it.
+
+927
+00:38:14,110 --> 00:38:15,340
+That's the way to maximize profits.
+
+928
+00:38:15,340 --> 00:38:16,240
+ALYSSA GOODMAN: Super cheap.
+
+929
+00:38:16,240 --> 00:38:17,440
+REBECCA HENDERSON: Super cheap.
+
+930
+00:38:17,440 --> 00:38:19,345
+And they don't give you any trouble, and they never unionize,
+
+931
+00:38:19,345 --> 00:38:20,860
+and you can chain them to the looms.
+
+932
+00:38:20,860 --> 00:38:23,470
+I mean, let's do it.
+
+933
+00:38:23,470 --> 00:38:25,690
+No one is going to say that in public.
+
+934
+00:38:25,690 --> 00:38:29,500
+And I think it's possible that in fact that
+
+935
+00:38:29,500 --> 00:38:31,840
+might happen with respect to climate.
+
+936
+00:38:31,840 --> 00:38:35,440
+Now, there are very complicated political dynamics
+
+937
+00:38:35,440 --> 00:38:38,830
+around beliefs around climate in the US, not elsewhere [INAUDIBLE]..
+
+938
+00:38:38,830 --> 00:38:41,080
+ALYSSA GOODMAN: That's where people realize it's real.
+
+939
+00:38:41,080 --> 00:38:43,030
+REBECCA HENDERSON: Really realize it's real.
+
+940
+00:38:43,030 --> 00:38:45,620
+And we could talk about the politics if you're curious.
+
+941
+00:38:45,620 --> 00:38:52,040
+But the other thing that seems to be happening is if you get hit not once,
+
+942
+00:38:52,040 --> 00:38:53,858
+not twice, but three times by a major--
+
+943
+00:38:53,858 --> 00:38:55,150
+ALYSSA GOODMAN: By a flood or--
+
+944
+00:38:55,150 --> 00:38:56,978
+REBECCA HENDERSON: --climate related event.
+
+945
+00:38:56,978 --> 00:39:00,270
+Then even if you really didn't think it was true, you start to think it's true.
+
+946
+00:39:00,270 --> 00:39:01,120
+ALYSSA GOODMAN: That's true.
+
+947
+00:39:01,120 --> 00:39:02,953
+REBECCA HENDERSON: And there's some evidence
+
+948
+00:39:02,953 --> 00:39:05,863
+that voting behaviors in the Carolinas in this last election
+
+949
+00:39:05,863 --> 00:39:08,280
+were shaped by the fact that they've been hit three times.
+
+950
+00:39:08,280 --> 00:39:09,520
+ALYSSA GOODMAN: Yeah, so tell me more about what
+
+951
+00:39:09,520 --> 00:39:12,310
+you think about the political situation in the US if you want
+
+952
+00:39:12,310 --> 00:39:13,660
+and why it's so different than other places.
+
+953
+00:39:13,660 --> 00:39:15,160
+REBECCA HENDERSON: No, I'd happy to.
+
+954
+00:39:17,460 --> 00:39:21,380
+So until quite recently, the Republican Party
+
+955
+00:39:21,380 --> 00:39:24,530
+admitted the scientific reality of climate change.
+
+956
+00:39:24,530 --> 00:39:31,000
+And in fact, people like Senator McCain advocated for climate legislation,
+
+957
+00:39:31,000 --> 00:39:33,440
+and it was considered bipartisan.
+
+958
+00:39:33,440 --> 00:39:37,610
+One of the things that's happened in the US over the last--
+
+959
+00:39:37,610 --> 00:39:40,970
+depends how you time it, but 30 to 40, 50 years
+
+960
+00:39:40,970 --> 00:39:43,940
+is the Republican Party, which one might think
+
+961
+00:39:43,940 --> 00:39:47,060
+of as the party of the establishment and of business
+
+962
+00:39:47,060 --> 00:39:52,370
+has made common cause with what we might call the old southern party, which
+
+963
+00:39:52,370 --> 00:40:00,920
+was primarily interested in minimizing the size of the federal government,
+
+964
+00:40:00,920 --> 00:40:04,910
+largely to involve interference with their racial policies.
+
+965
+00:40:04,910 --> 00:40:07,250
+And so there was a very effective alliance
+
+966
+00:40:07,250 --> 00:40:09,590
+where these two parties came together and said,
+
+967
+00:40:09,590 --> 00:40:11,190
+we want to get rid of government.
+
+968
+00:40:11,190 --> 00:40:12,830
+We want to scale it down.
+
+969
+00:40:12,830 --> 00:40:15,220
+The first, because we don't like taxes and regulation.
+
+970
+00:40:15,220 --> 00:40:18,470
+And the second, because we really don't like the federal government telling us
+
+971
+00:40:18,470 --> 00:40:21,500
+who we can live next to, or who we have to go to school with,
+
+972
+00:40:21,500 --> 00:40:24,840
+or who we have to allow access to our elections.
+
+973
+00:40:24,840 --> 00:40:28,490
+And so that's been an incredibly powerful political alliance.
+
+974
+00:40:28,490 --> 00:40:33,380
+And what that has sort of cemented is an ideology that government is bad.
+
+975
+00:40:33,380 --> 00:40:35,640
+Government wants to control you.
+
+976
+00:40:35,640 --> 00:40:39,980
+And so we have a lot of people thinking that climate change is a conspiracy
+
+977
+00:40:39,980 --> 00:40:44,740
+to stop you driving your car or doing what you want with your land.
+
+978
+00:40:44,740 --> 00:40:46,990
+ALYSSA GOODMAN: Although I still don't understand why.
+
+979
+00:40:46,990 --> 00:40:50,330
+Why would the government want to have that conspiracy?
+
+980
+00:40:50,330 --> 00:40:52,850
+REBECCA HENDERSON: Oh, because that's what governments.
+
+981
+00:40:52,850 --> 00:40:53,450
+Governments want to control your--
+
+982
+00:40:53,450 --> 00:40:54,020
+ALYSSA GOODMAN: Stop you from things.
+
+983
+00:40:54,020 --> 00:40:55,103
+REBECCA HENDERSON: --life.
+
+984
+00:40:55,103 --> 00:40:57,870
+Government wants you to stop you from doing things.
+
+985
+00:40:57,870 --> 00:40:59,990
+And so let's get rid of government.
+
+986
+00:40:59,990 --> 00:41:01,130
+Government is them.
+
+987
+00:41:01,130 --> 00:41:02,480
+Government is the elites.
+
+988
+00:41:02,480 --> 00:41:04,280
+Government is remote.
+
+989
+00:41:04,280 --> 00:41:06,260
+And as we know, to an unfortunate degree,
+
+990
+00:41:06,260 --> 00:41:08,442
+government has been elite, remote, and not
+
+991
+00:41:08,442 --> 00:41:10,400
+doing the right thing for people on the ground.
+
+992
+00:41:10,400 --> 00:41:13,500
+So it's played into this ideology.
+
+993
+00:41:13,500 --> 00:41:16,850
+And so now we have a lot of people who cannot be persuaded that climate change
+
+994
+00:41:16,850 --> 00:41:21,980
+is a real possibility, even if you bring them people who speak their language
+
+995
+00:41:21,980 --> 00:41:24,350
+and share their faith traditions.
+
+996
+00:41:24,350 --> 00:41:26,100
+It's very, very difficult to [INAUDIBLE]..
+
+997
+00:41:26,100 --> 00:41:28,590
+ALYSSA GOODMAN: But if unfortunately, they experienced three floods in a row,
+
+998
+00:41:28,590 --> 00:41:28,750
+[INAUDIBLE].
+
+999
+00:41:28,750 --> 00:41:31,070
+REBECCA HENDERSON: Now, If they've experienced three floods in a row, now
+
+1000
+00:41:31,070 --> 00:41:32,600
+we're beginning to get change.
+
+1001
+00:41:32,600 --> 00:41:35,030
+And of course, this varies by demographic.
+
+1002
+00:41:35,030 --> 00:41:39,170
+And it's this sort of really focused denial lists
+
+1003
+00:41:39,170 --> 00:41:41,717
+are a relatively small share of the population.
+
+1004
+00:41:41,717 --> 00:41:42,800
+And that number is moving.
+
+1005
+00:41:42,800 --> 00:41:45,950
+And I'm sure you're showing people the Pew statistics.
+
+1006
+00:41:45,950 --> 00:41:48,290
+ALYSSA GOODMAN: I think also there's a difference that's
+
+1007
+00:41:48,290 --> 00:41:53,100
+important between denialists and there's no word for it, like ignoralists.
+
+1008
+00:41:53,100 --> 00:41:53,600
+Or--
+
+1009
+00:41:53,600 --> 00:41:54,610
+REBECCA HENDERSON: Oh, I love the ignorness.
+
+1010
+00:41:54,610 --> 00:41:55,580
+ALYSSA GOODMAN: --I just don't pay attention.
+
+1011
+00:41:55,580 --> 00:41:56,600
+REBECCA HENDERSON: I just don't pay attention.
+
+1012
+00:41:56,600 --> 00:41:57,808
+I don't think about politics.
+
+1013
+00:41:57,808 --> 00:41:59,060
+Maybe there's climate change.
+
+1014
+00:41:59,060 --> 00:41:59,560
+No, no.
+
+1015
+00:41:59,560 --> 00:42:01,470
+And that's an important segment.
+
+1016
+00:42:01,470 --> 00:42:06,800
+But it is true now that if you ask, a majority of the US population
+
+1017
+00:42:06,800 --> 00:42:12,130
+believes that climate change is real and that we should act against it.
+
+1018
+00:42:12,130 --> 00:42:15,230
+And there's more and more people wanting to put it higher
+
+1019
+00:42:15,230 --> 00:42:16,483
+up their list of priorities.
+
+1020
+00:42:16,483 --> 00:42:17,900
+ALYSSA GOODMAN: Yeah, [INAUDIBLE].
+
+1021
+00:42:17,900 --> 00:42:21,230
+REBECCA HENDERSON: So one of the reasons I think business action in this area
+
+1022
+00:42:21,230 --> 00:42:26,030
+is really important is I think there's an interaction between employees
+
+1023
+00:42:26,030 --> 00:42:27,270
+want me to focus on climate.
+
+1024
+00:42:27,270 --> 00:42:28,940
+So I'm going to focus on climate.
+
+1025
+00:42:28,940 --> 00:42:33,920
+And, oh, every big company focuses on climate, and says it's real,
+
+1026
+00:42:33,920 --> 00:42:35,840
+and put solar panels on their roof.
+
+1027
+00:42:35,840 --> 00:42:37,680
+Maybe it's really happening.
+
+1028
+00:42:37,680 --> 00:42:40,400
+So I think there's an effect of the private sector on--
+
+1029
+00:42:40,400 --> 00:42:40,965
+ALYSSA GOODMAN: Have demonstrated.
+
+1030
+00:42:40,965 --> 00:42:43,965
+REBECCA HENDERSON: Yes, a demonstrating effect, a legitimization effect.
+
+1031
+00:42:43,965 --> 00:42:47,090
+ALYSSA GOODMAN: So is it really true that the price of real estate in Miami
+
+1032
+00:42:47,090 --> 00:42:50,450
+hasn't fallen, even in response to their total acknowledgment of climate change,
+
+1033
+00:42:50,450 --> 00:42:52,250
+and the changing coastline, and floods?
+
+1034
+00:42:52,250 --> 00:42:55,550
+REBECCA HENDERSON: So one particularly interesting example
+
+1035
+00:42:55,550 --> 00:42:57,860
+of the complete disjunction between my cognitive
+
+1036
+00:42:57,860 --> 00:43:01,220
+understanding that climate change is happening and action in the world
+
+1037
+00:43:01,220 --> 00:43:05,753
+is the price of Miami real estate, which really should have fallen by now.
+
+1038
+00:43:05,753 --> 00:43:06,920
+ALYSSA GOODMAN: You'd think.
+
+1039
+00:43:06,920 --> 00:43:09,410
+REBECCA HENDERSON: I mean, we have persistent flooding,
+
+1040
+00:43:09,410 --> 00:43:11,450
+saltwater incursions.
+
+1041
+00:43:11,450 --> 00:43:14,647
+And yet, if you go to the beach in Miami--
+
+1042
+00:43:14,647 --> 00:43:17,480
+ALYSSA GOODMAN: I see building buildings on higher and higher stilts
+
+1043
+00:43:17,480 --> 00:43:18,590
+and charging more and more.
+
+1044
+00:43:18,590 --> 00:43:21,090
+REBECCA HENDERSON: They are building the buildings up a bit.
+
+1045
+00:43:21,090 --> 00:43:23,270
+But the skyline is a mass of cranes.
+
+1046
+00:43:23,270 --> 00:43:28,310
+And that whole area is going to be under water in 30 years, 50 years.
+
+1047
+00:43:28,310 --> 00:43:30,492
+I mean, really, really soon.
+
+1048
+00:43:30,492 --> 00:43:31,700
+ALYSSA GOODMAN: What a world.
+
+1049
+00:43:31,700 --> 00:43:33,867
+REBECCA HENDERSON: And I heard a fantastic interview
+
+1050
+00:43:33,867 --> 00:43:38,010
+with on NPR with a Miami real estate agent who said, yeah,
+
+1051
+00:43:38,010 --> 00:43:39,790
+we know climate change is happening.
+
+1052
+00:43:39,790 --> 00:43:42,590
+No, I'm buying and selling condos in this area,
+
+1053
+00:43:42,590 --> 00:43:45,210
+because we're going to sell them in three or four years.
+
+1054
+00:43:45,210 --> 00:43:48,890
+And there'll be someone who wants to buy this great condo.
+
+1055
+00:43:48,890 --> 00:43:51,050
+And so you've got a classic--
+
+1056
+00:43:51,050 --> 00:43:53,660
+I mean, some of my colleagues call it a carbon bubble, which
+
+1057
+00:43:53,660 --> 00:43:55,310
+is we know there's a carbon bubble.
+
+1058
+00:43:55,310 --> 00:43:56,960
+We know there's going to be a massive
+
+1059
+00:43:56,960 --> 00:43:58,085
+ALYSSA GOODMAN: [INAUDIBLE]
+
+1060
+00:43:58,085 --> 00:44:02,150
+REBECCA HENDERSON: --reallocation of asset prices at some stage.
+
+1061
+00:44:02,150 --> 00:44:04,880
+But everyone's like, oh, but not this year.
+
+1062
+00:44:04,880 --> 00:44:07,700
+And of course, if you're using an 8% discount rate,
+
+1063
+00:44:07,700 --> 00:44:12,590
+anything more than six or eight years away is infinitely distant.
+
+1064
+00:44:12,590 --> 00:44:16,070
+And so because we think the world is going
+
+1065
+00:44:16,070 --> 00:44:19,400
+to be more or less the same, which is where we get the discount rate,
+
+1066
+00:44:19,400 --> 00:44:22,555
+then we don't make investments that would allow us to ensure that.
+
+1067
+00:44:22,555 --> 00:44:23,930
+ALYSSA GOODMAN: In the long term.
+
+1068
+00:44:23,930 --> 00:44:25,430
+REBECCA HENDERSON: In the long term.
+
+1069
+00:44:25,430 --> 00:44:26,240
+Right.
+
+1070
+00:44:26,240 --> 00:44:27,200
+ALYSSA GOODMAN: Wow.
+
+1071
+00:44:27,200 --> 00:44:27,700
+OK.
+
+1072
+00:44:27,700 --> 00:44:31,557
+Well, so if we talk about totally life changing technologies,
+
+1073
+00:44:31,557 --> 00:44:34,140
+one thing that we could talk about is artificial intelligence,
+
+1074
+00:44:34,140 --> 00:44:37,310
+robotics, machine learning, the changing nature of work.
+
+1075
+00:44:37,310 --> 00:44:40,640
+And so how do you think that impacts the future when
+
+1076
+00:44:40,640 --> 00:44:44,355
+it comes to climate and other aspects of people's economic lives?
+
+1077
+00:44:44,355 --> 00:44:45,980
+REBECCA HENDERSON: So that's a really--
+
+1078
+00:44:45,980 --> 00:44:46,320
+ALYSSA GOODMAN: Huge question.
+
+1079
+00:44:46,320 --> 00:44:48,278
+REBECCA HENDERSON: --interesting question Yeah.
+
+1080
+00:44:48,278 --> 00:44:51,260
+So what's the interaction between AI robotics and climate?
+
+1081
+00:44:51,260 --> 00:44:52,430
+ALYSSA GOODMAN: Yes.
+
+1082
+00:44:52,430 --> 00:44:55,820
+REBECCA HENDERSON: So let's go positive first.
+
+1083
+00:44:55,820 --> 00:44:59,360
+One of the big impacts of climate change that's becoming increasing clear
+
+1084
+00:44:59,360 --> 00:45:03,600
+is to make it very hard to work outdoors in certain regions of the world.
+
+1085
+00:45:03,600 --> 00:45:07,550
+And so the ability to automate agricultural work
+
+1086
+00:45:07,550 --> 00:45:11,600
+and to use much less water, much more fertilizer,
+
+1087
+00:45:11,600 --> 00:45:15,200
+to really sort of upgrade agriculture is going
+
+1088
+00:45:15,200 --> 00:45:17,660
+to be absolutely central to human well being.
+
+1089
+00:45:17,660 --> 00:45:21,290
+And so the combination of AI big data and then robots--
+
+1090
+00:45:21,290 --> 00:45:23,575
+you could imagine that really making a huge--
+
+1091
+00:45:23,575 --> 00:45:25,090
+[INTERPOSING VOICES]
+
+1092
+00:45:25,090 --> 00:45:27,090
+ALYSSA GOODMAN: --stop a lot of health problems.
+
+1093
+00:45:27,090 --> 00:45:28,215
+REBECCA HENDERSON: Exactly.
+
+1094
+00:45:28,215 --> 00:45:33,780
+So as in nearly every industry, there's a kind of light side of AI robotics,
+
+1095
+00:45:33,780 --> 00:45:36,330
+which is really exciting.
+
+1096
+00:45:36,330 --> 00:45:41,340
+I think the potential dark side is that we don't manage the transition.
+
+1097
+00:45:41,340 --> 00:45:45,440
+So I think in the long term, it's clear AI robotics will be what economists
+
+1098
+00:45:45,440 --> 00:45:50,150
+call a general purpose technology, like electricity, or computing, or the steam
+
+1099
+00:45:50,150 --> 00:45:51,000
+engine.
+
+1100
+00:45:51,000 --> 00:45:54,050
+And it will dramatically increase the productivity of the economy
+
+1101
+00:45:54,050 --> 00:45:55,910
+and bring us all kinds of benefits.
+
+1102
+00:45:55,910 --> 00:45:58,820
+But there'll be, wait, transition costs?
+
+1103
+00:45:58,820 --> 00:46:01,910
+And transition costs of things like the major accounting firms
+
+1104
+00:46:01,910 --> 00:46:03,230
+are planning to--
+
+1105
+00:46:03,230 --> 00:46:09,830
+stepped on the hiring by 25%, 50%, 75% over the near future,
+
+1106
+00:46:09,830 --> 00:46:12,505
+because these new technologies allow them not to hire.
+
+1107
+00:46:12,505 --> 00:46:13,060
+ALYSSA GOODMAN: Employers.
+
+1108
+00:46:13,060 --> 00:46:15,650
+REBECCA HENDERSON: And the major accounting firms are the largest--
+
+1109
+00:46:15,650 --> 00:46:17,600
+my understanding is they're the largest hire
+
+1110
+00:46:17,600 --> 00:46:20,930
+of white collar people out of college.
+
+1111
+00:46:20,930 --> 00:46:22,820
+Or let's just talk autonomous driving.
+
+1112
+00:46:22,820 --> 00:46:26,960
+I'm sure you've seen the predictions of the millions of people who
+
+1113
+00:46:26,960 --> 00:46:28,677
+are likely to be thrown out of work.
+
+1114
+00:46:28,677 --> 00:46:29,510
+ALYSSA GOODMAN: Yes.
+
+1115
+00:46:29,510 --> 00:46:30,740
+REBECCA HENDERSON: Now, you can things in the long term,
+
+1116
+00:46:30,740 --> 00:46:33,720
+this is a stupid way for human beings to spend their time.
+
+1117
+00:46:33,720 --> 00:46:37,470
+And the AI will make sure that the transportation network is much cleaner,
+
+1118
+00:46:37,470 --> 00:46:41,190
+much more efficient, that the vehicles are allocated much more effectively.
+
+1119
+00:46:41,190 --> 00:46:43,810
+So from a carbon point of view, we would love
+
+1120
+00:46:43,810 --> 00:46:45,992
+AI to run the transportation systems.
+
+1121
+00:46:45,992 --> 00:46:48,950
+From a human point of view, what are we going to do with the 1 million,
+
+1122
+00:46:48,950 --> 00:46:53,280
+2 million, pick your number people who are thrown out of work?
+
+1123
+00:46:53,280 --> 00:46:58,850
+And they may in turn, contribute to very significant political unrest.
+
+1124
+00:46:58,850 --> 00:47:02,210
+And if we get significant political unrest, which
+
+1125
+00:47:02,210 --> 00:47:07,250
+makes us focused increasingly on the short term and on populist solutions
+
+1126
+00:47:07,250 --> 00:47:09,992
+to our problems, we will not respond effectively
+
+1127
+00:47:09,992 --> 00:47:11,450
+to the challenge of climate change.
+
+1128
+00:47:11,450 --> 00:47:13,890
+And it will degrade our political capability.
+
+1129
+00:47:13,890 --> 00:47:16,400
+ALYSSA GOODMAN: So what do we think about things like a guaranteed minimum
+
+1130
+00:47:16,400 --> 00:47:16,900
+income?
+
+1131
+00:47:16,900 --> 00:47:17,780
+Is that realistic?
+
+1132
+00:47:17,780 --> 00:47:19,363
+In other words, where you take people?
+
+1133
+00:47:19,363 --> 00:47:22,160
+And we know that the Industrial Revolution
+
+1134
+00:47:22,160 --> 00:47:24,860
+made the workweek much shorter.
+
+1135
+00:47:24,860 --> 00:47:28,520
+And do you get to the point where people just work less, and you retrain people,
+
+1136
+00:47:28,520 --> 00:47:30,440
+or some people don't work at all?
+
+1137
+00:47:30,440 --> 00:47:33,210
+Or there's other things people do with their time?
+
+1138
+00:47:33,210 --> 00:47:34,730
+Do people think about this?
+
+1139
+00:47:34,730 --> 00:47:35,480
+REBECCA HENDERSON: Absolutely.
+
+1140
+00:47:35,480 --> 00:47:35,680
+ALYSSA GOODMAN: Discuss this?
+
+1141
+00:47:35,680 --> 00:47:38,300
+REBECCA HENDERSON: There's a lot of discussion in this area.
+
+1142
+00:47:38,300 --> 00:47:40,470
+I'm not a super special expert in this area,
+
+1143
+00:47:40,470 --> 00:47:42,350
+but I know enough to be dangerous.
+
+1144
+00:47:42,350 --> 00:47:46,130
+So it's clear that we have to think about this problem.
+
+1145
+00:47:46,130 --> 00:47:51,560
+Amongst the solutions are significant increase in education, thinking
+
+1146
+00:47:51,560 --> 00:47:54,950
+seriously about how you make AI and robotics a complement
+
+1147
+00:47:54,950 --> 00:47:57,470
+to human skills and not a substitute.
+
+1148
+00:47:57,470 --> 00:47:59,420
+And that's an innovation project.
+
+1149
+00:47:59,420 --> 00:48:01,730
+And so a lot of firms are beginning to think about,
+
+1150
+00:48:01,730 --> 00:48:05,060
+how do you bring in the new technology, so it up skills everyone and makes
+
+1151
+00:48:05,060 --> 00:48:08,550
+us all more productive, rather than just automating what we have.
+
+1152
+00:48:08,550 --> 00:48:11,180
+So that's a big issue.
+
+1153
+00:48:11,180 --> 00:48:15,530
+Investment in health, because that just makes everybody possible.
+
+1154
+00:48:15,530 --> 00:48:20,750
+And then the minimum income-- there will be some people who cannot transition
+
+1155
+00:48:20,750 --> 00:48:22,580
+or are incapable of working.
+
+1156
+00:48:22,580 --> 00:48:25,433
+And I myself believe it's very important to support them.
+
+1157
+00:48:25,433 --> 00:48:27,350
+I'm nervous about a guaranteed minimum income.
+
+1158
+00:48:27,350 --> 00:48:31,775
+Because I believe work is one of the great sources of human self-respect--
+
+1159
+00:48:31,775 --> 00:48:33,210
+ALYSSA GOODMAN: I think so, too.
+
+1160
+00:48:33,210 --> 00:48:36,662
+REBECCA HENDERSON: --and of creativity and flourishing.
+
+1161
+00:48:36,662 --> 00:48:38,870
+ALYSSA GOODMAN: And of stopping you from being bored.
+
+1162
+00:48:38,870 --> 00:48:40,120
+REBECCA HENDERSON: Absolutely.
+
+1163
+00:48:40,120 --> 00:48:43,700
+Plus, a guaranteed minimum income is unbelievably expensive.
+
+1164
+00:48:43,700 --> 00:48:45,950
+I would much rather put the money into--
+
+1165
+00:48:45,950 --> 00:48:48,620
+let's kick up demand for education and health.
+
+1166
+00:48:48,620 --> 00:48:53,120
+Let's use that to drive the expansion of the economy to generate services we
+
+1167
+00:48:53,120 --> 00:48:54,200
+really need.
+
+1168
+00:48:54,200 --> 00:48:56,690
+Now, this is a very live issue amongst economists.
+
+1169
+00:48:56,690 --> 00:48:58,022
+And nobody knows the answer.
+
+1170
+00:48:58,022 --> 00:48:59,730
+I suspect we'll need a mix of everything.
+
+1171
+00:48:59,730 --> 00:49:02,022
+ALYSSA GOODMAN: I just have one weird thing to tell you
+
+1172
+00:49:02,022 --> 00:49:04,970
+about the autonomous vehicles scenario.
+
+1173
+00:49:04,970 --> 00:49:07,860
+I don't think I've told you, but I recently acquired Tesla.
+
+1174
+00:49:07,860 --> 00:49:09,830
+And it does drive itself.
+
+1175
+00:49:09,830 --> 00:49:14,000
+And the thing that's really weird is that the kind of human machine
+
+1176
+00:49:14,000 --> 00:49:18,220
+partnership that it is now is this form of self-driving car
+
+1177
+00:49:18,220 --> 00:49:20,210
+where you have to help it.
+
+1178
+00:49:20,210 --> 00:49:23,720
+So you can make it keep driving in a lane on a road.
+
+1179
+00:49:23,720 --> 00:49:26,240
+You can even tell it to change lanes, and it'll
+
+1180
+00:49:26,240 --> 00:49:28,400
+find the right place to change lanes.
+
+1181
+00:49:28,400 --> 00:49:30,713
+But it does not take you from point A to point B.
+
+1182
+00:49:30,713 --> 00:49:31,880
+REBECCA HENDERSON: It could.
+
+1183
+00:49:31,880 --> 00:49:32,750
+ALYSSA GOODMAN: It understands.
+
+1184
+00:49:32,750 --> 00:49:34,135
+But it could and it doesn't.
+
+1185
+00:49:34,135 --> 00:49:35,010
+And so I understand--
+
+1186
+00:49:35,010 --> 00:49:39,080
+I just learned yesterday that Apple and Google are apparently holding out
+
+1187
+00:49:39,080 --> 00:49:42,410
+for the world where you're at point A and you want to go to point B.
+
+1188
+00:49:42,410 --> 00:49:46,100
+And it frees the human from kind of worrying about the act of driving,
+
+1189
+00:49:46,100 --> 00:49:49,340
+whereas right now, you're in this weird place where it's a human computer
+
+1190
+00:49:49,340 --> 00:49:54,890
+partnership, where it's almost another skill to kind of control the computer,
+
+1191
+00:49:54,890 --> 00:49:56,510
+rather than to drive the car.
+
+1192
+00:49:56,510 --> 00:49:58,680
+It's very bizarre until you've experienced it.
+
+1193
+00:49:58,680 --> 00:50:02,090
+But it's sort of-- if you're driving down a road where there's not
+
+1194
+00:50:02,090 --> 00:50:04,570
+self-driving cars and people who--
+
+1195
+00:50:04,570 --> 00:50:08,480
+yesterday I was behind somebody in the tunnel under the Science Center
+
+1196
+00:50:08,480 --> 00:50:09,240
+at Harvard.
+
+1197
+00:50:09,240 --> 00:50:11,407
+And they were going 15 miles an hour in this tunnel,
+
+1198
+00:50:11,407 --> 00:50:14,240
+whereas you know people go 30, 40 miles an hour.
+
+1199
+00:50:14,240 --> 00:50:16,300
+And I said to the passenger I was with--
+
+1200
+00:50:16,300 --> 00:50:18,690
+you think they're texting or lost?
+
+1201
+00:50:18,690 --> 00:50:21,307
+And as a human, you have some expectation about,
+
+1202
+00:50:21,307 --> 00:50:23,015
+there's something wrong with this person.
+
+1203
+00:50:23,015 --> 00:50:24,890
+And I don't want to go too near that car.
+
+1204
+00:50:24,890 --> 00:50:27,010
+But the self-driving car doesn't understand that.
+
+1205
+00:50:27,010 --> 00:50:28,468
+REBECCA HENDERSON: Oh, interesting.
+
+1206
+00:50:28,468 --> 00:50:31,760
+ALYSSA GOODMAN: OK, so the danger to this human computer partnership
+
+1207
+00:50:31,760 --> 00:50:35,720
+is mixing pure human with human computer partnership.
+
+1208
+00:50:35,720 --> 00:50:37,710
+Because the computer doesn't yet understand.
+
+1209
+00:50:37,710 --> 00:50:39,560
+And so you talk about all these transitions.
+
+1210
+00:50:39,560 --> 00:50:40,775
+But there's this weird transition.
+
+1211
+00:50:40,775 --> 00:50:41,510
+REBECCA HENDERSON: Right.
+
+1212
+00:50:41,510 --> 00:50:42,800
+And there's going to be a bunch of these kind of transitions.
+
+1213
+00:50:42,800 --> 00:50:43,175
+ALYSSA GOODMAN: Exactly.
+
+1214
+00:50:43,175 --> 00:50:45,990
+And so I'm sort of trying to think of other examples.
+
+1215
+00:50:45,990 --> 00:50:49,490
+And it wasn't until I actually owned this car that I went, oh, my God.
+
+1216
+00:50:49,490 --> 00:50:50,570
+This is so weird.
+
+1217
+00:50:50,570 --> 00:50:51,590
+REBECCA HENDERSON: Well, you could imagine.
+
+1218
+00:50:51,590 --> 00:50:54,110
+This is not my field, but you can imagine similar ambiguity
+
+1219
+00:50:54,110 --> 00:50:56,285
+in the medical arena, where the AI--
+
+1220
+00:50:56,285 --> 00:50:56,540
+ALYSSA GOODMAN: Exactly.
+
+1221
+00:50:56,540 --> 00:50:58,332
+REBECCA HENDERSON: --can help you diagnose.
+
+1222
+00:50:58,332 --> 00:51:01,080
+And how much reliance you put on the diagnostic?
+
+1223
+00:51:01,080 --> 00:51:02,270
+And it could go either way.
+
+1224
+00:51:02,270 --> 00:51:02,580
+ALYSSA GOODMAN: Exactly.
+
+1225
+00:51:02,580 --> 00:51:04,160
+REBECCA HENDERSON: And the doctor won't take seriously
+
+1226
+00:51:04,160 --> 00:51:06,827
+the machine predictions, which are even now statistically better
+
+1227
+00:51:06,827 --> 00:51:09,820
+than most doctors, or too seriously, and it depends.
+
+1228
+00:51:09,820 --> 00:51:10,820
+ALYSSA GOODMAN: Exactly.
+
+1229
+00:51:10,820 --> 00:51:12,362
+So it seems like there's this whole--
+
+1230
+00:51:12,362 --> 00:51:16,763
+we've been talking about people's attitudes, and people's relationship
+
+1231
+00:51:16,763 --> 00:51:17,930
+with quants, and everything.
+
+1232
+00:51:17,930 --> 00:51:21,942
+And I think the kind of education that may be needed--
+
+1233
+00:51:21,942 --> 00:51:23,900
+and we talked about this with Ben Schneiderman,
+
+1234
+00:51:23,900 --> 00:51:27,140
+actually, in terms of algorithmic accountability,
+
+1235
+00:51:27,140 --> 00:51:30,680
+is getting people to a point where they least understand
+
+1236
+00:51:30,680 --> 00:51:32,730
+what these algorithms are trying to do if they're
+
+1237
+00:51:32,730 --> 00:51:34,730
+going to live in this hybrid world where they're
+
+1238
+00:51:34,730 --> 00:51:37,138
+cooperating with these algorithms.
+
+1239
+00:51:37,138 --> 00:51:38,930
+REBECCA HENDERSON: But this is exactly what
+
+1240
+00:51:38,930 --> 00:51:41,720
+I mean when I say we have to make these technologies a complement
+
+1241
+00:51:41,720 --> 00:51:42,920
+to human skills.
+
+1242
+00:51:42,920 --> 00:51:45,110
+Because there's a persistent fantasy that I
+
+1243
+00:51:45,110 --> 00:51:49,160
+think has haunted my business for at least the last hundred
+
+1244
+00:51:49,160 --> 00:51:53,332
+years, which is if we found the perfect machine, we can get rid of the humans.
+
+1245
+00:51:53,332 --> 00:51:55,040
+ALYSSA GOODMAN: Well, in some cases, yes.
+
+1246
+00:51:55,040 --> 00:51:56,690
+I mean, think about an elevator, right?
+
+1247
+00:51:56,690 --> 00:51:59,898
+An elevator in a building-- that's why I always used that as the dumb analogy
+
+1248
+00:51:59,898 --> 00:52:00,930
+to a self-driving car.
+
+1249
+00:52:00,930 --> 00:52:02,877
+An elevator used to have an elevator operator.
+
+1250
+00:52:02,877 --> 00:52:04,710
+They had to stop at exactly the right floor.
+
+1251
+00:52:04,710 --> 00:52:05,350
+They talked to you.
+
+1252
+00:52:05,350 --> 00:52:06,530
+It was very chatty, very nice.
+
+1253
+00:52:06,530 --> 00:52:07,980
+I barely remember this from when I was a little baby.
+
+1254
+00:52:07,980 --> 00:52:08,680
+REBECCA HENDERSON: Yeah, I remember that.
+
+1255
+00:52:08,680 --> 00:52:09,180
+Yeah.
+
+1256
+00:52:09,180 --> 00:52:12,260
+ALYSSA GOODMAN: OK, but that doesn't exist anymore.
+
+1257
+00:52:12,260 --> 00:52:16,220
+And now, there aren't even buttons on elevators in some very fancy buildings,
+
+1258
+00:52:16,220 --> 00:52:18,848
+because there's some algorithm that's allocating the elevator.
+
+1259
+00:52:18,848 --> 00:52:21,140
+And you have to tell it where you want to go in advance
+
+1260
+00:52:21,140 --> 00:52:21,730
+and this creeps people out.
+
+1261
+00:52:21,730 --> 00:52:23,930
+REBECCA HENDERSON: But so there are some tasks we definitely want
+
+1262
+00:52:23,930 --> 00:52:25,730
+to automate and get the humans out.
+
+1263
+00:52:25,730 --> 00:52:27,350
+But there are other tasks.
+
+1264
+00:52:27,350 --> 00:52:28,040
+ALYSSA GOODMAN: Where we don't.
+
+1265
+00:52:28,040 --> 00:52:30,498
+REBECCA HENDERSON: I mean, there's a huge literature about,
+
+1266
+00:52:30,498 --> 00:52:33,915
+for example, if you want to order a loan for me, should I trust the software?
+
+1267
+00:52:33,915 --> 00:52:37,165
+But we're beginning to see the software encodes all kinds of racial and gender
+
+1268
+00:52:37,165 --> 00:52:37,350
+biases.
+
+1269
+00:52:37,350 --> 00:52:37,910
+ALYSSA GOODMAN: Yes, yes.
+
+1270
+00:52:37,910 --> 00:52:39,120
+We talked about that with Ben, too.
+
+1271
+00:52:39,120 --> 00:52:39,700
+Yes, yes.
+
+1272
+00:52:39,700 --> 00:52:40,850
+REBECCA HENDERSON: And how do we think about that?
+
+1273
+00:52:40,850 --> 00:52:42,410
+And how should business think about?
+
+1274
+00:52:42,410 --> 00:52:43,285
+ALYSSA GOODMAN: Yeah.
+
+1275
+00:52:43,285 --> 00:52:47,480
+And so I think it's not just a problem for academics.
+
+1276
+00:52:47,480 --> 00:52:51,170
+I think it's kind of like how you had to retrain the workforce
+
+1277
+00:52:51,170 --> 00:52:52,785
+to use electrical power tools, right?
+
+1278
+00:52:52,785 --> 00:52:55,160
+I think you have to retrain the workforce to understand--
+
+1279
+00:52:55,160 --> 00:52:55,625
+REBECCA HENDERSON: That's happening now.
+
+1280
+00:52:55,625 --> 00:52:56,300
+ALYSSA GOODMAN: --these problems.
+
+1281
+00:52:56,300 --> 00:52:57,450
+REBECCA HENDERSON: We had to retrain everyone
+
+1282
+00:52:57,450 --> 00:53:00,480
+to think about statistical process control and continuous improvement.
+
+1283
+00:53:00,480 --> 00:53:01,690
+ALYSSA GOODMAN: Not everyone, but some people.
+
+1284
+00:53:01,690 --> 00:53:01,880
+Yes.
+
+1285
+00:53:01,880 --> 00:53:03,500
+REBECCA HENDERSON: But a lot of people, many more people
+
+1286
+00:53:03,500 --> 00:53:04,500
+than you usually expect.
+
+1287
+00:53:04,500 --> 00:53:07,208
+And what are the tools of continuous improvement?
+
+1288
+00:53:07,208 --> 00:53:09,500
+And how do we think about this not as a static process,
+
+1289
+00:53:09,500 --> 00:53:10,580
+but as an evolving process?
+
+1290
+00:53:10,580 --> 00:53:13,122
+ALYSSA GOODMAN: But I have to tell you that one of the things
+
+1291
+00:53:13,122 --> 00:53:19,110
+that I was really surprised about in terms of this effort, PredictionX,
+
+1292
+00:53:19,110 --> 00:53:21,080
+we were really trying to get to people who
+
+1293
+00:53:21,080 --> 00:53:25,265
+might not have thought about climate change simulation and how it was done.
+
+1294
+00:53:25,265 --> 00:53:27,140
+And there's a certain preaching to the choir.
+
+1295
+00:53:27,140 --> 00:53:29,690
+And I hope that if this does make it to the video,
+
+1296
+00:53:29,690 --> 00:53:31,880
+that people are not already in the choir.
+
+1297
+00:53:31,880 --> 00:53:34,880
+But there is this issue where it's really hard
+
+1298
+00:53:34,880 --> 00:53:38,330
+to get to the people who don't want to think about this stuff.
+
+1299
+00:53:38,330 --> 00:53:42,870
+And when you mix in the AI and the robotics,
+
+1300
+00:53:42,870 --> 00:53:44,903
+which are even harder for people to kind of--
+
+1301
+00:53:44,903 --> 00:53:47,570
+REBECCA HENDERSON: But they don't have the same emotional reason
+
+1302
+00:53:47,570 --> 00:53:49,650
+to shut down when you start talking about it.
+
+1303
+00:53:49,650 --> 00:53:51,710
+ALYSSA GOODMAN: No, they have an emotional reason to embrace it.
+
+1304
+00:53:51,710 --> 00:53:52,110
+REBECCA HENDERSON: Exactly.
+
+1305
+00:53:52,110 --> 00:53:54,277
+ALYSSA GOODMAN: Because if it's not about their job,
+
+1306
+00:53:54,277 --> 00:53:55,480
+then they're like, awesome.
+
+1307
+00:53:55,480 --> 00:53:55,980
+Great.
+
+1308
+00:53:55,980 --> 00:53:57,313
+I don't have to do that anymore?
+
+1309
+00:53:57,313 --> 00:53:59,240
+Roomba-- that vacuum for me.
+
+1310
+00:53:59,240 --> 00:54:00,770
+Terrific.
+
+1311
+00:54:00,770 --> 00:54:04,580
+And so I think people are accepting of all these things, which got us
+
+1312
+00:54:04,580 --> 00:54:10,970
+to terrible for us food, and inefficient energy networks,
+
+1313
+00:54:10,970 --> 00:54:14,260
+and all this stuff that was just kind of convenient at the time.
+
+1314
+00:54:14,260 --> 00:54:16,760
+And so what I worry about when it comes to AI, and robotics,
+
+1315
+00:54:16,760 --> 00:54:19,460
+and all of this stuff is people not understanding
+
+1316
+00:54:19,460 --> 00:54:22,820
+what they're getting themselves into and not even wanting to think about it.
+
+1317
+00:54:22,820 --> 00:54:25,070
+REBECCA HENDERSON: One of the interesting implications
+
+1318
+00:54:25,070 --> 00:54:30,470
+of AI in particular is the ability to extract patents
+
+1319
+00:54:30,470 --> 00:54:32,810
+from enormous disparate pools of data.
+
+1320
+00:54:32,810 --> 00:54:33,920
+ALYSSA GOODMAN: Yes.
+
+1321
+00:54:33,920 --> 00:54:35,120
+REBECCA HENDERSON: And so one of the things
+
+1322
+00:54:35,120 --> 00:54:37,010
+firms would like to know is, where are you?
+
+1323
+00:54:37,010 --> 00:54:38,010
+How much money you have.
+
+1324
+00:54:38,010 --> 00:54:39,650
+And what would you buy?
+
+1325
+00:54:39,650 --> 00:54:42,530
+And so you can integrate an enormous amount.
+
+1326
+00:54:42,530 --> 00:54:44,000
+You can use facial recognition.
+
+1327
+00:54:44,000 --> 00:54:45,540
+You can use purchases.
+
+1328
+00:54:45,540 --> 00:54:47,660
+You can use cell phones, tracking.
+
+1329
+00:54:47,660 --> 00:54:54,050
+So you could develop the kind of complete surveillance software
+
+1330
+00:54:54,050 --> 00:55:01,190
+that an authoritarian state would like, just for private gain.
+
+1331
+00:55:01,190 --> 00:55:03,953
+And in fact, in this country, at least until quite recently,
+
+1332
+00:55:03,953 --> 00:55:05,870
+it looked as though a large platform companies
+
+1333
+00:55:05,870 --> 00:55:09,050
+would sew up a lot of this crucial data and use it
+
+1334
+00:55:09,050 --> 00:55:10,717
+as a source of money for themselves.
+
+1335
+00:55:10,717 --> 00:55:12,300
+ALYSSA GOODMAN: Facebook, for example.
+
+1336
+00:55:12,300 --> 00:55:13,467
+REBECCA HENDERSON: Facebook.
+
+1337
+00:55:13,467 --> 00:55:14,410
+But others, too.
+
+1338
+00:55:17,240 --> 00:55:18,412
+I mean, there's a--
+
+1339
+00:55:18,412 --> 00:55:19,270
+ALYSSA GOODMAN: It's interesting.
+
+1340
+00:55:19,270 --> 00:55:21,103
+Because among the Radcliffe Fellows, we have
+
+1341
+00:55:21,103 --> 00:55:23,708
+a bunch of people who are from former Eastern Bloc countries.
+
+1342
+00:55:23,708 --> 00:55:26,000
+And when they see the kind of stuff that people who are
+
+1343
+00:55:26,000 --> 00:55:28,260
+American mostly put on Facebook and Twitter--
+
+1344
+00:55:28,260 --> 00:55:28,730
+REBECCA HENDERSON: They can't believe it.
+
+1345
+00:55:28,730 --> 00:55:29,880
+ALYSSA GOODMAN: --they can't believe it.
+
+1346
+00:55:29,880 --> 00:55:30,770
+No, they can't believe it.
+
+1347
+00:55:30,770 --> 00:55:32,600
+Because they're just giving away this information.
+
+1348
+00:55:32,600 --> 00:55:33,050
+REBECCA HENDERSON: Right.
+
+1349
+00:55:33,050 --> 00:55:33,260
+Right.
+
+1350
+00:55:33,260 --> 00:55:34,177
+Why would you do that?
+
+1351
+00:55:34,177 --> 00:55:36,170
+Don't you understand you're being watched?
+
+1352
+00:55:36,170 --> 00:55:39,360
+So again, this is not climate change.
+
+1353
+00:55:39,360 --> 00:55:41,420
+But I think there's a way in which business
+
+1354
+00:55:41,420 --> 00:55:45,440
+may be tempted to use these technologies in a way that accelerate
+
+1355
+00:55:45,440 --> 00:55:47,335
+some potentially very negative effects.
+
+1356
+00:55:49,013 --> 00:55:51,680
+ALYSSA GOODMAN: Anything that you'd like to end on a happy note?
+
+1357
+00:55:51,680 --> 00:55:52,580
+[LAUGHTER]
+
+1358
+00:55:52,580 --> 00:55:53,930
+REBECCA HENDERSON: Oh, sure.
+
+1359
+00:55:53,930 --> 00:55:55,290
+ALYSSA GOODMAN: Anything else?
+
+1360
+00:55:55,290 --> 00:55:57,290
+You can look at your notes again if you want to.
+
+1361
+00:55:57,290 --> 00:56:00,920
+REBECCA HENDERSON: So sometimes people ask me why I'm optimistic,
+
+1362
+00:56:00,920 --> 00:56:05,960
+given how much I think about climate change and the issues we face.
+
+1363
+00:56:05,960 --> 00:56:09,980
+So there's a couple of reasons I remain not optimistic.
+
+1364
+00:56:09,980 --> 00:56:12,800
+Because I think optimistic implies I'm sure that everything's
+
+1365
+00:56:12,800 --> 00:56:13,780
+going to work out OK.
+
+1366
+00:56:13,780 --> 00:56:15,800
+So I'm going to say hopeful.
+
+1367
+00:56:15,800 --> 00:56:19,875
+So the reason I stay hopeful, but not optimistic is--
+
+1368
+00:56:19,875 --> 00:56:21,000
+there's a couple of things.
+
+1369
+00:56:21,000 --> 00:56:24,080
+First, I really mean it in saying that the technology will
+
+1370
+00:56:24,080 --> 00:56:25,580
+move much faster than we expect.
+
+1371
+00:56:25,580 --> 00:56:26,570
+And we're already beginning to see that.
+
+1372
+00:56:26,570 --> 00:56:27,360
+ALYSSA GOODMAN: There's evidence of that.
+
+1373
+00:56:27,360 --> 00:56:28,040
+Yes.
+
+1374
+00:56:28,040 --> 00:56:30,920
+REBECCA HENDERSON: Secondly, that when I started teaching the course
+
+1375
+00:56:30,920 --> 00:56:35,870
+I teach at the Harvard Business School, which has the tiny title of Reimagining
+
+1376
+00:56:35,870 --> 00:56:36,650
+Capitalism--
+
+1377
+00:56:36,650 --> 00:56:40,280
+Business and the Big Problems, 28 students showed up.
+
+1378
+00:56:40,280 --> 00:56:43,190
+And this year we had nearly 400, which is nearly half
+
+1379
+00:56:43,190 --> 00:56:45,355
+of the second year at the business school.
+
+1380
+00:56:45,355 --> 00:56:50,130
+And so my reading of not everyone, but many people
+
+1381
+00:56:50,130 --> 00:56:53,060
+are deeply concerned about these questions
+
+1382
+00:56:53,060 --> 00:56:58,430
+and really believe that there are issues about the future of the planet
+
+1383
+00:56:58,430 --> 00:57:00,640
+and the health of our society.
+
+1384
+00:57:00,640 --> 00:57:04,130
+And, yes, you could say these are not very precise predictions.
+
+1385
+00:57:04,130 --> 00:57:09,192
+But they are sure that there are high odds something very nasty will happen,
+
+1386
+00:57:09,192 --> 00:57:10,900
+unless we start doing things differently.
+
+1387
+00:57:10,900 --> 00:57:12,680
+ALYSSA GOODMAN: And that they see it is so important to help.
+
+1388
+00:57:12,680 --> 00:57:13,340
+Yeah.
+
+1389
+00:57:13,340 --> 00:57:15,257
+REBECCA HENDERSON: And so many of the students
+
+1390
+00:57:15,257 --> 00:57:18,060
+can see business models that will help.
+
+1391
+00:57:18,060 --> 00:57:20,270
+And so they're moving to do things.
+
+1392
+00:57:20,270 --> 00:57:24,060
+Because we are an incredibly creative and ingenious species.
+
+1393
+00:57:24,060 --> 00:57:26,550
+And there's a kind of chicken and egg problem here, right?
+
+1394
+00:57:26,550 --> 00:57:28,360
+If we all thought climate change was real
+
+1395
+00:57:28,360 --> 00:57:30,110
+and we needed to do something about it, we
+
+1396
+00:57:30,110 --> 00:57:33,380
+would create a huge market for the technologies that would avert it.
+
+1397
+00:57:33,380 --> 00:57:34,430
+ALYSSA GOODMAN: It would be space program.
+
+1398
+00:57:34,430 --> 00:57:37,160
+REBECCA HENDERSON: And that would drive down-- everyone down the cost curves.
+
+1399
+00:57:37,160 --> 00:57:38,410
+It would make it much cheaper.
+
+1400
+00:57:38,410 --> 00:57:39,890
+And we would get it done.
+
+1401
+00:57:39,890 --> 00:57:44,870
+And so to me, the whole question is, when is that avalanche going to start?
+
+1402
+00:57:44,870 --> 00:57:46,700
+It is going to start.
+
+1403
+00:57:46,700 --> 00:57:49,880
+And all of us are tiny, but we can all be pebbles in that avalanche.
+
+1404
+00:57:49,880 --> 00:57:53,540
+And at some stage it's going to roll.
+
+1405
+00:57:53,540 --> 00:57:55,060
+And I'm sure it's going to roll.
+
+1406
+00:57:55,060 --> 00:57:58,970
+Now, it won't be quick enough, because that would've been 20 years ago.
+
+1407
+00:57:58,970 --> 00:58:02,570
+But anything we can do is going to be better than doing nothing.
+
+1408
+00:58:02,570 --> 00:58:03,710
+ALYSSA GOODMAN: And from what you were saying before,
+
+1409
+00:58:03,710 --> 00:58:05,630
+you're thinking that that avalanche might even
+
+1410
+00:58:05,630 --> 00:58:07,520
+start in a country that's not ours.
+
+1411
+00:58:07,520 --> 00:58:09,026
+REBECCA HENDERSON: Oh, yes.
+
+1412
+00:58:09,026 --> 00:58:09,850
+Yes, yes.
+
+1413
+00:58:09,850 --> 00:58:10,250
+ALYSSA GOODMAN: Yeah, that's interesting.
+
+1414
+00:58:10,250 --> 00:58:11,870
+REBECCA HENDERSON: We tend to think everything starts here.
+
+1415
+00:58:11,870 --> 00:58:12,360
+ALYSSA GOODMAN: No.
+
+1416
+00:58:12,360 --> 00:58:12,630
+REBECCA HENDERSON: Not necessarily.
+
+1417
+00:58:12,630 --> 00:58:14,150
+ALYSSA GOODMAN: Well, [INAUDIBLE] because we're
+
+1418
+00:58:14,150 --> 00:58:16,950
+notorious for being very creative and innovative in this country,
+
+1419
+00:58:16,950 --> 00:58:18,570
+especially with technology.
+
+1420
+00:58:18,570 --> 00:58:23,390
+But this is a case where technology and policy are really
+
+1421
+00:58:23,390 --> 00:58:25,110
+not headed in the same direction.
+
+1422
+00:58:25,110 --> 00:58:26,610
+REBECCA HENDERSON: It's interesting.
+
+1423
+00:58:26,610 --> 00:58:30,110
+Because, by historical standards, America has been really good at seeing
+
+1424
+00:58:30,110 --> 00:58:32,630
+there's a new industry coming, and investing in the R&D,
+
+1425
+00:58:32,630 --> 00:58:34,500
+and triggering the demand.
+
+1426
+00:58:34,500 --> 00:58:38,078
+But in this instance, we've been really a laggard.
+
+1427
+00:58:38,078 --> 00:58:38,870
+ALYSSA GOODMAN: OK.
+
+1428
+00:58:38,870 --> 00:58:40,620
+Well, let's look to the rest of the world.
+
+1429
+00:58:40,620 --> 00:58:42,980
+And I say thank you, thank you, thank you very much.
+
+1430
+00:58:42,980 --> 00:58:43,250
+REBECCA HENDERSON: You're very welcome.
+
+1431
+00:58:43,250 --> 00:58:44,330
+ALYSSA GOODMAN: This was perfect.
+
+1432
+00:58:44,330 --> 00:58:44,830
+Perfect.
+
+1433
+00:58:44,830 --> 00:58:46,720
+REBECCA HENDERSON: My pleasure, really.
+

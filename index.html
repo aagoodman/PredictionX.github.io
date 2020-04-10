@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title></title>
+	<meta name="generator" content="BBEdit 12.6" />
+</head>
+<body>
+ <p>
+    <script>
+        var head  = document.getElementsByTagName('head')[0];
+        var link  = document.createElement('link');
+        link.id   = "bundlecss";
+        link.rel  = 'stylesheet';
+        link.type = 'text/css';
+        link.href = 'https:///www.example.com/hxat_video_lite.css';
+//In the line above, replace https://www.example.com with the hostname of your web server and any path you've added [https://www.myserver.com/my/path/hxat_video_lite.css]
+        link.media = 'all';
+        if (window.location.host.indexOf('studio') === -1) {
+            head.appendChild(link);
+        }
+    </script>
+</p>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script type="text/javascript" src="https://www.example.com/hxat_video_lite.js"></script>
+<!-- In the line above, replace https://www.example.com with the hostname of your web server and any path you've added. -->
+<div id="hxat_lite_loading"><i class='fa fa-spinner'></i></div>
+<div class="hxat-lite-area">
+    <div class="sidebar" id="top-sidebar" height="150" style="display: none;">Show Annotation List</div>
+
+    <div id="container" style="display: none;">
+        <div class="annotationSection side" role="list" aria-label="Annotations" style="display: none;">
+            <div class="annotationsHolder"></div>
+        </div>
+    </div>
+</div>
+
+<div id='video-url' style='display:none;'>https://www.example.com/hxat_video_lite.js</div>
+<!-- In the line above, replace https://www.example.com with the hostname of your web server and any path you've added. -->
+<div id='transcript' style='display:none;'>https://www.example.com/your_caption_file.srt</div>
+<!-- In the line above, replace https://www.example.com with the hostname of your web server and any path you've added and the name of your .srt caption file. -->
+<div id="tags" style="display: none;"></div>
+<div id="annotations-url" style="display: none;">https://www.example.com/your_annotations.json</div>
+<!-- In the line above, replace https://www.example.com with the hostname of your web server and any path you've added and the name of your .json annotations file. -->
+<div id='media-type' style="display: none;">video</div>
+<div id="extra_options" style="display:none;"></div>
+</body>
+</html>

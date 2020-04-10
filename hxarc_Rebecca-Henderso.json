@@ -1,0 +1,1337 @@
+{
+    "limit": "-1",
+    "offset": "0",
+    "rows": [
+        {
+            "archived": false,
+            "citation": "None",
+            "collectionId": "None",
+            "contextId": "None",
+            "created": "2020-01-16T19:15:08+00:00",
+            "deleted": false,
+            "id": 2,
+            "media": "video",
+            "parent": "0",
+            "permissions": {
+                "admin": [
+                    "admin"
+                ],
+                "delete": [
+                    "admin"
+                ],
+                "read": [],
+                "update": [
+                    "admin"
+                ]
+            },
+            "quote": "",
+            "rangeTime": {
+                "end": 49,
+                "start": 0
+            },
+            "ranges": [],
+            "tags": [],
+            "target": {
+                "container": "video1",
+                "ext": "mp4",
+                "src": "https://d2f1egay8yehza.cloudfront.net/HarvardXPXM101-V002100_DTH.mp4"
+            },
+            "text": "Meet Rebecca Henderson ",
+            "totalComments": 0,
+            "updated": "2020-01-16T19:15:08+00:00",
+            "uri": 123,
+            "user": {
+                "id": "admin",
+                "name": "admin"
+            }
+        },
+        {
+            "archived": false,
+            "citation": "None",
+            "collectionId": "None",
+            "contextId": "None",
+            "created": "2020-01-16T19:15:08+00:00",
+            "deleted": false,
+            "id": 3,
+            "media": "video",
+            "parent": "0",
+            "permissions": {
+                "admin": [
+                    "admin"
+                ],
+                "delete": [
+                    "admin"
+                ],
+                "read": [],
+                "update": [
+                    "admin"
+                ]
+            },
+            "quote": "",
+            "rangeTime": {
+                "end": 482,
+                "start": 50
+            },
+            "ranges": [],
+            "tags": [
+                "#models_inputs",
+                "#personal_societal",
+                "#predictability",
+                "#future_of_the_future",
+                "#public_reaction"
+            ],
+            "target": {
+                "container": "video1",
+                "ext": "mp4",
+                "src": "https://d2f1egay8yehza.cloudfront.net/HarvardXPXM101-V002100_DTH.mp4"
+            },
+            "text": "How do Businesses use Prediction?",
+            "totalComments": 0,
+            "updated": "2020-01-16T19:15:08+00:00",
+            "uri": 123,
+            "user": {
+                "id": "admin",
+                "name": "admin"
+            }
+        },
+        {
+            "archived": false,
+            "citation": "None",
+            "collectionId": "None",
+            "contextId": "None",
+            "created": "2020-01-16T19:15:08+00:00",
+            "deleted": false,
+            "id": 4,
+            "media": "video",
+            "parent": "0",
+            "permissions": {
+                "admin": [
+                    "admin"
+                ],
+                "delete": [
+                    "admin"
+                ],
+                "read": [],
+                "update": [
+                    "admin"
+                ]
+            },
+            "quote": "",
+            "rangeTime": {
+                "end": 482,
+                "start": 459
+            },
+            "ranges": [],
+            "tags": [],
+            "target": {
+                "container": "video1",
+                "ext": "mp4",
+                "src": "https://d2f1egay8yehza.cloudfront.net/HarvardXPXM101-V002100_DTH.mp4"
+            },
+            "text": "<a href=\"https://www.radcliffe.harvard.edu/video/energy-plan-earth-can-live-daniel-m-kammen\" target=\"_blank\">Daniel Kammen's talk at Radcliffe Institute's \"Undiscovered\" Symposium</a> ",
+            "totalComments": 0,
+            "updated": "2020-01-16T19:15:08+00:00",
+            "uri": 123,
+            "user": {
+                "id": "admin",
+                "name": "admin"
+            }
+        },
+        {
+            "archived": false,
+            "citation": "None",
+            "collectionId": "None",
+            "contextId": "None",
+            "created": "2020-01-16T19:15:08+00:00",
+            "deleted": false,
+            "id": 5,
+            "media": "video",
+            "parent": "0",
+            "permissions": {
+                "admin": [
+                    "admin"
+                ],
+                "delete": [
+                    "admin"
+                ],
+                "read": [],
+                "update": [
+                    "admin"
+                ]
+            },
+            "quote": "",
+            "rangeTime": {
+                "end": 579,
+                "start": 483
+            },
+            "ranges": [],
+            "tags": [],
+            "target": {
+                "container": "video1",
+                "ext": "mp4",
+                "src": "https://d2f1egay8yehza.cloudfront.net/HarvardXPXM101-V002100_DTH.mp4"
+            },
+            "text": "Techno Fanaticism",
+            "totalComments": 0,
+            "updated": "2020-01-16T19:15:08+00:00",
+            "uri": 123,
+            "user": {
+                "id": "admin",
+                "name": "admin"
+            }
+        },
+        {
+            "archived": false,
+            "citation": "None",
+            "collectionId": "None",
+            "contextId": "None",
+            "created": "2020-01-16T19:15:08+00:00",
+            "deleted": false,
+            "id": 6,
+            "media": "video",
+            "parent": "0",
+            "permissions": {
+                "admin": [
+                    "admin"
+                ],
+                "delete": [
+                    "admin"
+                ],
+                "read": [],
+                "update": [
+                    "admin"
+                ]
+            },
+            "quote": "",
+            "rangeTime": {
+                "end": 680,
+                "start": 580
+            },
+            "ranges": [],
+            "tags": [],
+            "target": {
+                "container": "video1",
+                "ext": "mp4",
+                "src": "https://d2f1egay8yehza.cloudfront.net/HarvardXPXM101-V002100_DTH.mp4"
+            },
+            "text": "Feedback Effects",
+            "totalComments": 0,
+            "updated": "2020-01-16T19:15:08+00:00",
+            "uri": 123,
+            "user": {
+                "id": "admin",
+                "name": "admin"
+            }
+        },
+        {
+            "archived": false,
+            "citation": "None",
+            "collectionId": "None",
+            "contextId": "None",
+            "created": "2020-01-16T19:15:08+00:00",
+            "deleted": false,
+            "id": 7,
+            "media": "video",
+            "parent": "0",
+            "permissions": {
+                "admin": [
+                    "admin"
+                ],
+                "delete": [
+                    "admin"
+                ],
+                "read": [],
+                "update": [
+                    "admin"
+                ]
+            },
+            "quote": "",
+            "rangeTime": {
+                "end": 680,
+                "start": 600
+            },
+            "ranges": [],
+            "tags": [],
+            "target": {
+                "container": "video1",
+                "ext": "mp4",
+                "src": "https://d2f1egay8yehza.cloudfront.net/HarvardXPXM101-V002100_DTH.mp4"
+            },
+            "text": "<a href=\"https://climate.nasa.gov/news/2785/unexpected-future-boost-of-methane-possible-from-arctic-permafrost/\" target=\"_blank\">Unexpected future boost of methane possible from Arctic permafrost (NASA)</a> ",
+            "totalComments": 0,
+            "updated": "2020-01-16T19:15:08+00:00",
+            "uri": 123,
+            "user": {
+                "id": "admin",
+                "name": "admin"
+            }
+        },
+        {
+            "archived": false,
+            "citation": "None",
+            "collectionId": "None",
+            "contextId": "None",
+            "created": "2020-01-16T19:15:08+00:00",
+            "deleted": false,
+            "id": 8,
+            "media": "video",
+            "parent": "0",
+            "permissions": {
+                "admin": [
+                    "admin"
+                ],
+                "delete": [
+                    "admin"
+                ],
+                "read": [],
+                "update": [
+                    "admin"
+                ]
+            },
+            "quote": "",
+            "rangeTime": {
+                "end": 1090,
+                "start": 681
+            },
+            "ranges": [],
+            "tags": [
+                "#uncertainty",
+                "#predictability",
+                "#biases"
+            ],
+            "target": {
+                "container": "video1",
+                "ext": "mp4",
+                "src": "https://d2f1egay8yehza.cloudfront.net/HarvardXPXM101-V002100_DTH.mp4"
+            },
+            "text": "The Future Isn't Always Just Like the Past",
+            "totalComments": 0,
+            "updated": "2020-01-16T19:15:08+00:00",
+            "uri": 123,
+            "user": {
+                "id": "admin",
+                "name": "admin"
+            }
+        },
+        {
+            "archived": false,
+            "citation": "None",
+            "collectionId": "None",
+            "contextId": "None",
+            "created": "2020-01-16T19:15:08+00:00",
+            "deleted": false,
+            "id": 9,
+            "media": "video",
+            "parent": "0",
+            "permissions": {
+                "admin": [
+                    "admin"
+                ],
+                "delete": [
+                    "admin"
+                ],
+                "read": [],
+                "update": [
+                    "admin"
+                ]
+            },
+            "quote": "",
+            "rangeTime": {
+                "end": 1090,
+                "start": 1039
+            },
+            "ranges": [],
+            "tags": [],
+            "target": {
+                "container": "video1",
+                "ext": "mp4",
+                "src": "https://d2f1egay8yehza.cloudfront.net/HarvardXPXM101-V002100_DTH.mp4"
+            },
+            "text": "Rebecca Henderson: \"I haven't met a single person from a large corporation who doesn't believe that climate change is real and human-caused.\"",
+            "totalComments": 0,
+            "updated": "2020-01-16T19:15:08+00:00",
+            "uri": 123,
+            "user": {
+                "id": "admin",
+                "name": "admin"
+            }
+        },
+        {
+            "archived": false,
+            "citation": "None",
+            "collectionId": "None",
+            "contextId": "None",
+            "created": "2020-01-16T19:15:08+00:00",
+            "deleted": false,
+            "id": 10,
+            "media": "video",
+            "parent": "0",
+            "permissions": {
+                "admin": [
+                    "admin"
+                ],
+                "delete": [
+                    "admin"
+                ],
+                "read": [],
+                "update": [
+                    "admin"
+                ]
+            },
+            "quote": "",
+            "rangeTime": {
+                "end": 1158,
+                "start": 1091
+            },
+            "ranges": [],
+            "tags": [
+                "#public_reaction",
+                "#personal_societal"
+            ],
+            "target": {
+                "container": "video1",
+                "ext": "mp4",
+                "src": "https://d2f1egay8yehza.cloudfront.net/HarvardXPXM101-V002100_DTH.mp4"
+            },
+            "text": "An Appropriate Level of Denial",
+            "totalComments": 0,
+            "updated": "2020-01-16T19:15:08+00:00",
+            "uri": 123,
+            "user": {
+                "id": "admin",
+                "name": "admin"
+            }
+        },
+        {
+            "archived": false,
+            "citation": "None",
+            "collectionId": "None",
+            "contextId": "None",
+            "created": "2020-01-16T19:15:08+00:00",
+            "deleted": false,
+            "id": 11,
+            "media": "video",
+            "parent": "0",
+            "permissions": {
+                "admin": [
+                    "admin"
+                ],
+                "delete": [
+                    "admin"
+                ],
+                "read": [],
+                "update": [
+                    "admin"
+                ]
+            },
+            "quote": "",
+            "rangeTime": {
+                "end": 1464,
+                "start": 1159
+            },
+            "ranges": [],
+            "tags": [
+                "#personal_societal",
+                "#public_reaction"
+            ],
+            "target": {
+                "container": "video1",
+                "ext": "mp4",
+                "src": "https://d2f1egay8yehza.cloudfront.net/HarvardXPXM101-V002100_DTH.mp4"
+            },
+            "text": "What Could Businesses Be Doing?",
+            "totalComments": 0,
+            "updated": "2020-01-16T19:15:08+00:00",
+            "uri": 123,
+            "user": {
+                "id": "admin",
+                "name": "admin"
+            }
+        },
+        {
+            "archived": false,
+            "citation": "None",
+            "collectionId": "None",
+            "contextId": "None",
+            "created": "2020-01-16T19:15:08+00:00",
+            "deleted": false,
+            "id": 12,
+            "media": "video",
+            "parent": "0",
+            "permissions": {
+                "admin": [
+                    "admin"
+                ],
+                "delete": [
+                    "admin"
+                ],
+                "read": [],
+                "update": [
+                    "admin"
+                ]
+            },
+            "quote": "",
+            "rangeTime": {
+                "end": 1221,
+                "start": 1185
+            },
+            "ranges": [],
+            "tags": [],
+            "target": {
+                "container": "video1",
+                "ext": "mp4",
+                "src": "https://d2f1egay8yehza.cloudfront.net/HarvardXPXM101-V002100_DTH.mp4"
+            },
+            "text": "<a href=\"https://en.wikipedia.org/wiki/Free-rider_problem\" target=\"_blank\">The Free-Rider Problem</a> ",
+            "totalComments": 0,
+            "updated": "2020-01-16T19:15:08+00:00",
+            "uri": 123,
+            "user": {
+                "id": "admin",
+                "name": "admin"
+            }
+        },
+        {
+            "archived": false,
+            "citation": "None",
+            "collectionId": "None",
+            "contextId": "None",
+            "created": "2020-01-16T19:15:08+00:00",
+            "deleted": false,
+            "id": 13,
+            "media": "video",
+            "parent": "0",
+            "permissions": {
+                "admin": [
+                    "admin"
+                ],
+                "delete": [
+                    "admin"
+                ],
+                "read": [],
+                "update": [
+                    "admin"
+                ]
+            },
+            "quote": "",
+            "rangeTime": {
+                "end": 1221,
+                "start": 1185
+            },
+            "ranges": [],
+            "tags": [],
+            "target": {
+                "container": "video1",
+                "ext": "mp4",
+                "src": "https://d2f1egay8yehza.cloudfront.net/HarvardXPXM101-V002100_DTH.mp4"
+            },
+            "text": "<a href=\"https://en.wikipedia.org/wiki/First-mover_advantage\" target=\"_blank\">First-Mover Advantage</a> ",
+            "totalComments": 0,
+            "updated": "2020-01-16T19:15:08+00:00",
+            "uri": 123,
+            "user": {
+                "id": "admin",
+                "name": "admin"
+            }
+        },
+        {
+            "archived": false,
+            "citation": "None",
+            "collectionId": "None",
+            "contextId": "None",
+            "created": "2020-01-16T19:15:08+00:00",
+            "deleted": false,
+            "id": 14,
+            "media": "video",
+            "parent": "0",
+            "permissions": {
+                "admin": [
+                    "admin"
+                ],
+                "delete": [
+                    "admin"
+                ],
+                "read": [],
+                "update": [
+                    "admin"
+                ]
+            },
+            "quote": "",
+            "rangeTime": {
+                "end": 1262,
+                "start": 1233
+            },
+            "ranges": [],
+            "tags": [],
+            "target": {
+                "container": "video1",
+                "ext": "mp4",
+                "src": "https://d2f1egay8yehza.cloudfront.net/HarvardXPXM101-V002100_DTH.mp4"
+            },
+            "text": "<a href=\"http://www.climateaction100.org/\" target=\"_blank\">Climate Action 100+</a> ",
+            "totalComments": 0,
+            "updated": "2020-01-16T19:15:08+00:00",
+            "uri": 123,
+            "user": {
+                "id": "admin",
+                "name": "admin"
+            }
+        },
+        {
+            "archived": false,
+            "citation": "None",
+            "collectionId": "None",
+            "contextId": "None",
+            "created": "2020-01-16T19:15:08+00:00",
+            "deleted": false,
+            "id": 15,
+            "media": "video",
+            "parent": "0",
+            "permissions": {
+                "admin": [
+                    "admin"
+                ],
+                "delete": [
+                    "admin"
+                ],
+                "read": [],
+                "update": [
+                    "admin"
+                ]
+            },
+            "quote": "",
+            "rangeTime": {
+                "end": 1718,
+                "start": 1465
+            },
+            "ranges": [],
+            "tags": [
+                "#technology_theoretical_computation_and_math",
+                "#uncertainty"
+            ],
+            "target": {
+                "container": "video1",
+                "ext": "mp4",
+                "src": "https://d2f1egay8yehza.cloudfront.net/HarvardXPXM101-V002100_DTH.mp4"
+            },
+            "text": "What is Needed from Quantitative Models?",
+            "totalComments": 0,
+            "updated": "2020-01-16T19:15:08+00:00",
+            "uri": 123,
+            "user": {
+                "id": "admin",
+                "name": "admin"
+            }
+        },
+        {
+            "archived": false,
+            "citation": "None",
+            "collectionId": "None",
+            "contextId": "None",
+            "created": "2020-01-16T19:15:08+00:00",
+            "deleted": false,
+            "id": 16,
+            "media": "video",
+            "parent": "0",
+            "permissions": {
+                "admin": [
+                    "admin"
+                ],
+                "delete": [
+                    "admin"
+                ],
+                "read": [],
+                "update": [
+                    "admin"
+                ]
+            },
+            "quote": "",
+            "rangeTime": {
+                "end": 1883,
+                "start": 1719
+            },
+            "ranges": [],
+            "tags": [],
+            "target": {
+                "container": "video1",
+                "ext": "mp4",
+                "src": "https://d2f1egay8yehza.cloudfront.net/HarvardXPXM101-V002100_DTH.mp4"
+            },
+            "text": "Climate and the Developing World",
+            "totalComments": 0,
+            "updated": "2020-01-16T19:15:08+00:00",
+            "uri": 123,
+            "user": {
+                "id": "admin",
+                "name": "admin"
+            }
+        },
+        {
+            "archived": false,
+            "citation": "None",
+            "collectionId": "None",
+            "contextId": "None",
+            "created": "2020-01-16T19:15:08+00:00",
+            "deleted": false,
+            "id": 17,
+            "media": "video",
+            "parent": "0",
+            "permissions": {
+                "admin": [
+                    "admin"
+                ],
+                "delete": [
+                    "admin"
+                ],
+                "read": [],
+                "update": [
+                    "admin"
+                ]
+            },
+            "quote": "",
+            "rangeTime": {
+                "end": 1849,
+                "start": 1829
+            },
+            "ranges": [],
+            "tags": [],
+            "target": {
+                "container": "video1",
+                "ext": "mp4",
+                "src": "https://d2f1egay8yehza.cloudfront.net/HarvardXPXM101-V002100_DTH.mp4"
+            },
+            "text": "<a href=\"https://www.ft.com/content/baaa32dc-1d42-11e9-b126-46fc3ad87c65\" target=\"_blank\">Coal plants in China</a> ",
+            "totalComments": 0,
+            "updated": "2020-01-16T19:15:08+00:00",
+            "uri": 123,
+            "user": {
+                "id": "admin",
+                "name": "admin"
+            }
+        },
+        {
+            "archived": false,
+            "citation": "None",
+            "collectionId": "None",
+            "contextId": "None",
+            "created": "2020-01-16T19:15:08+00:00",
+            "deleted": false,
+            "id": 18,
+            "media": "video",
+            "parent": "0",
+            "permissions": {
+                "admin": [
+                    "admin"
+                ],
+                "delete": [
+                    "admin"
+                ],
+                "read": [],
+                "update": [
+                    "admin"
+                ]
+            },
+            "quote": "",
+            "rangeTime": {
+                "end": 2105,
+                "start": 1884
+            },
+            "ranges": [],
+            "tags": [
+                "#technology",
+                "#theoretical_computational_math",
+                "#uncertainty",
+                "#predictability",
+                "#future_of_the_future"
+            ],
+            "target": {
+                "container": "video1",
+                "ext": "mp4",
+                "src": "https://d2f1egay8yehza.cloudfront.net/HarvardXPXM101-V002100_DTH.mp4"
+            },
+            "text": "Interconnected Models for Climate Change",
+            "totalComments": 0,
+            "updated": "2020-01-16T19:15:08+00:00",
+            "uri": 123,
+            "user": {
+                "id": "admin",
+                "name": "admin"
+            }
+        },
+        {
+            "archived": false,
+            "citation": "None",
+            "collectionId": "None",
+            "contextId": "None",
+            "created": "2020-01-16T19:15:08+00:00",
+            "deleted": false,
+            "id": 19,
+            "media": "video",
+            "parent": "0",
+            "permissions": {
+                "admin": [
+                    "admin"
+                ],
+                "delete": [
+                    "admin"
+                ],
+                "read": [],
+                "update": [
+                    "admin"
+                ]
+            },
+            "quote": "",
+            "rangeTime": {
+                "end": 2105,
+                "start": 2011
+            },
+            "ranges": [],
+            "tags": [],
+            "target": {
+                "container": "video1",
+                "ext": "mp4",
+                "src": "https://d2f1egay8yehza.cloudfront.net/HarvardXPXM101-V002100_DTH.mp4"
+            },
+            "text": "Possible Mass Migration Following a Climate Change Crisis",
+            "totalComments": 0,
+            "updated": "2020-01-16T19:15:08+00:00",
+            "uri": 123,
+            "user": {
+                "id": "admin",
+                "name": "admin"
+            }
+        },
+        {
+            "archived": false,
+            "citation": "None",
+            "collectionId": "None",
+            "contextId": "None",
+            "created": "2020-01-16T19:15:08+00:00",
+            "deleted": false,
+            "id": 20,
+            "media": "video",
+            "parent": "0",
+            "permissions": {
+                "admin": [
+                    "admin"
+                ],
+                "delete": [
+                    "admin"
+                ],
+                "read": [],
+                "update": [
+                    "admin"
+                ]
+            },
+            "quote": "",
+            "rangeTime": {
+                "end": 2105,
+                "start": 2097
+            },
+            "ranges": [],
+            "tags": [],
+            "target": {
+                "container": "video1",
+                "ext": "mp4",
+                "src": "https://d2f1egay8yehza.cloudfront.net/HarvardXPXM101-V002100_DTH.mp4"
+            },
+            "text": "<a href=\"https://conference.nber.org/books/hend09-1\" target=\"_blank\">Accelerating Energy Innovation: Insights from Multiple Sectors by Rebecca M. Henderson and Richard G. Newell</a> ",
+            "totalComments": 0,
+            "updated": "2020-01-16T19:15:08+00:00",
+            "uri": 123,
+            "user": {
+                "id": "admin",
+                "name": "admin"
+            }
+        },
+        {
+            "archived": false,
+            "citation": "None",
+            "collectionId": "None",
+            "contextId": "None",
+            "created": "2020-01-16T19:15:08+00:00",
+            "deleted": false,
+            "id": 21,
+            "media": "video",
+            "parent": "0",
+            "permissions": {
+                "admin": [
+                    "admin"
+                ],
+                "delete": [
+                    "admin"
+                ],
+                "read": [],
+                "update": [
+                    "admin"
+                ]
+            },
+            "quote": "",
+            "rangeTime": {
+                "end": 2211,
+                "start": 2106
+            },
+            "ranges": [],
+            "tags": [
+                "#public_reaction"
+            ],
+            "target": {
+                "container": "video1",
+                "ext": "mp4",
+                "src": "https://d2f1egay8yehza.cloudfront.net/HarvardXPXM101-V002100_DTH.mp4"
+            },
+            "text": "Climate Change and Entrepreneurship",
+            "totalComments": 0,
+            "updated": "2020-01-16T19:15:08+00:00",
+            "uri": 123,
+            "user": {
+                "id": "admin",
+                "name": "admin"
+            }
+        },
+        {
+            "archived": false,
+            "citation": "None",
+            "collectionId": "None",
+            "contextId": "None",
+            "created": "2020-01-16T19:15:08+00:00",
+            "deleted": false,
+            "id": 22,
+            "media": "video",
+            "parent": "0",
+            "permissions": {
+                "admin": [
+                    "admin"
+                ],
+                "delete": [
+                    "admin"
+                ],
+                "read": [],
+                "update": [
+                    "admin"
+                ]
+            },
+            "quote": "",
+            "rangeTime": {
+                "end": 2365,
+                "start": 2212
+            },
+            "ranges": [],
+            "tags": [],
+            "target": {
+                "container": "video1",
+                "ext": "mp4",
+                "src": "https://d2f1egay8yehza.cloudfront.net/HarvardXPXM101-V002100_DTH.mp4"
+            },
+            "text": "Changing Minds",
+            "totalComments": 0,
+            "updated": "2020-01-16T19:15:08+00:00",
+            "uri": 123,
+            "user": {
+                "id": "admin",
+                "name": "admin"
+            }
+        },
+        {
+            "archived": false,
+            "citation": "None",
+            "collectionId": "None",
+            "contextId": "None",
+            "created": "2020-01-16T19:15:08+00:00",
+            "deleted": false,
+            "id": 23,
+            "media": "video",
+            "parent": "0",
+            "permissions": {
+                "admin": [
+                    "admin"
+                ],
+                "delete": [
+                    "admin"
+                ],
+                "read": [],
+                "update": [
+                    "admin"
+                ]
+            },
+            "quote": "",
+            "rangeTime": {
+                "end": 2580,
+                "start": 2366
+            },
+            "ranges": [],
+            "tags": [
+                "#personal_societal"
+            ],
+            "target": {
+                "container": "video1",
+                "ext": "mp4",
+                "src": "https://d2f1egay8yehza.cloudfront.net/HarvardXPXM101-V002100_DTH.mp4"
+            },
+            "text": "Politics and Climate Change",
+            "totalComments": 0,
+            "updated": "2020-01-16T19:15:08+00:00",
+            "uri": 123,
+            "user": {
+                "id": "admin",
+                "name": "admin"
+            }
+        },
+        {
+            "archived": false,
+            "citation": "None",
+            "collectionId": "None",
+            "contextId": "None",
+            "created": "2020-01-16T19:15:08+00:00",
+            "deleted": false,
+            "id": 24,
+            "media": "video",
+            "parent": "0",
+            "permissions": {
+                "admin": [
+                    "admin"
+                ],
+                "delete": [
+                    "admin"
+                ],
+                "read": [],
+                "update": [
+                    "admin"
+                ]
+            },
+            "quote": "",
+            "rangeTime": {
+                "end": 2580,
+                "start": 2523
+            },
+            "ranges": [],
+            "tags": [],
+            "target": {
+                "container": "video1",
+                "ext": "mp4",
+                "src": "https://d2f1egay8yehza.cloudfront.net/HarvardXPXM101-V002100_DTH.mp4"
+            },
+            "text": "Denialist and Ignoralists",
+            "totalComments": 0,
+            "updated": "2020-01-16T19:15:08+00:00",
+            "uri": 123,
+            "user": {
+                "id": "admin",
+                "name": "admin"
+            }
+        },
+        {
+            "archived": false,
+            "citation": "None",
+            "collectionId": "None",
+            "contextId": "None",
+            "created": "2020-01-16T19:15:08+00:00",
+            "deleted": false,
+            "id": 25,
+            "media": "video",
+            "parent": "0",
+            "permissions": {
+                "admin": [
+                    "admin"
+                ],
+                "delete": [
+                    "admin"
+                ],
+                "read": [],
+                "update": [
+                    "admin"
+                ]
+            },
+            "quote": "",
+            "rangeTime": {
+                "end": 2682,
+                "start": 2581
+            },
+            "ranges": [],
+            "tags": [],
+            "target": {
+                "container": "video1",
+                "ext": "mp4",
+                "src": "https://d2f1egay8yehza.cloudfront.net/HarvardXPXM101-V002100_DTH.mp4"
+            },
+            "text": "Miami and the Carbon Bubble",
+            "totalComments": 0,
+            "updated": "2020-01-16T19:15:08+00:00",
+            "uri": 123,
+            "user": {
+                "id": "admin",
+                "name": "admin"
+            }
+        },
+        {
+            "archived": false,
+            "citation": "None",
+            "collectionId": "None",
+            "contextId": "None",
+            "created": "2020-01-16T19:15:08+00:00",
+            "deleted": false,
+            "id": 26,
+            "media": "video",
+            "parent": "0",
+            "permissions": {
+                "admin": [
+                    "admin"
+                ],
+                "delete": [
+                    "admin"
+                ],
+                "read": [],
+                "update": [
+                    "admin"
+                ]
+            },
+            "quote": "",
+            "rangeTime": {
+                "end": 2682,
+                "start": 2624
+            },
+            "ranges": [],
+            "tags": [],
+            "target": {
+                "container": "video1",
+                "ext": "mp4",
+                "src": "https://d2f1egay8yehza.cloudfront.net/HarvardXPXM101-V002100_DTH.mp4"
+            },
+            "text": " <a href=\"https://www.npr.org/2017/12/05/567264841/south-florida-real-estate-boom-not-dampened-by-sea-level-rise\" target=\"_blank\">South Florida Real Estate Boom Not Dampened By Sea Level Rise (NPR)</a> ",
+            "totalComments": 0,
+            "updated": "2020-01-16T19:15:08+00:00",
+            "uri": 123,
+            "user": {
+                "id": "admin",
+                "name": "admin"
+            }
+        },
+        {
+            "archived": false,
+            "citation": "None",
+            "collectionId": "None",
+            "contextId": "None",
+            "created": "2020-01-16T19:15:08+00:00",
+            "deleted": false,
+            "id": 27,
+            "media": "video",
+            "parent": "0",
+            "permissions": {
+                "admin": [
+                    "admin"
+                ],
+                "delete": [
+                    "admin"
+                ],
+                "read": [],
+                "update": [
+                    "admin"
+                ]
+            },
+            "quote": "",
+            "rangeTime": {
+                "end": 2956,
+                "start": 2683
+            },
+            "ranges": [],
+            "tags": [
+                "#ai",
+                "#machine_learning",
+                "#robotics",
+                "#climate",
+                "#future_of_the_future"
+            ],
+            "target": {
+                "container": "video1",
+                "ext": "mp4",
+                "src": "https://d2f1egay8yehza.cloudfront.net/HarvardXPXM101-V002100_DTH.mp4"
+            },
+            "text": "AI, Robotics, and Climate",
+            "totalComments": 0,
+            "updated": "2020-01-16T19:15:08+00:00",
+            "uri": 123,
+            "user": {
+                "id": "admin",
+                "name": "admin"
+            }
+        },
+        {
+            "archived": false,
+            "citation": "None",
+            "collectionId": "None",
+            "contextId": "None",
+            "created": "2020-01-16T19:15:08+00:00",
+            "deleted": false,
+            "id": 28,
+            "media": "video",
+            "parent": "0",
+            "permissions": {
+                "admin": [
+                    "admin"
+                ],
+                "delete": [
+                    "admin"
+                ],
+                "read": [],
+                "update": [
+                    "admin"
+                ]
+            },
+            "quote": "",
+            "rangeTime": {
+                "end": 2956,
+                "start": 2851
+            },
+            "ranges": [],
+            "tags": [],
+            "target": {
+                "container": "video1",
+                "ext": "mp4",
+                "src": "https://d2f1egay8yehza.cloudfront.net/HarvardXPXM101-V002100_DTH.mp4"
+            },
+            "text": "On the guaranteed minimum income.",
+            "totalComments": 0,
+            "updated": "2020-01-16T19:15:08+00:00",
+            "uri": 123,
+            "user": {
+                "id": "admin",
+                "name": "admin"
+            }
+        },
+        {
+            "archived": false,
+            "citation": "None",
+            "collectionId": "None",
+            "contextId": "None",
+            "created": "2020-01-16T19:15:08+00:00",
+            "deleted": false,
+            "id": 29,
+            "media": "video",
+            "parent": "0",
+            "permissions": {
+                "admin": [
+                    "admin"
+                ],
+                "delete": [
+                    "admin"
+                ],
+                "read": [],
+                "update": [
+                    "admin"
+                ]
+            },
+            "quote": "",
+            "rangeTime": {
+                "end": 3365,
+                "start": 2957
+            },
+            "ranges": [],
+            "tags": [
+                "#future_of_the_future"
+            ],
+            "target": {
+                "container": "video1",
+                "ext": "mp4",
+                "src": "https://d2f1egay8yehza.cloudfront.net/HarvardXPXM101-V002100_DTH.mp4"
+            },
+            "text": "Human-Computer Partnership and Self-Driving Cars",
+            "totalComments": 0,
+            "updated": "2020-01-16T19:15:08+00:00",
+            "uri": 123,
+            "user": {
+                "id": "admin",
+                "name": "admin"
+            }
+        },
+        {
+            "archived": false,
+            "citation": "None",
+            "collectionId": "None",
+            "contextId": "None",
+            "created": "2020-01-16T19:15:08+00:00",
+            "deleted": false,
+            "id": 30,
+            "media": "video",
+            "parent": "0",
+            "permissions": {
+                "admin": [
+                    "admin"
+                ],
+                "delete": [
+                    "admin"
+                ],
+                "read": [],
+                "update": [
+                    "admin"
+                ]
+            },
+            "quote": "",
+            "rangeTime": {
+                "end": 3543,
+                "start": 3087
+            },
+            "ranges": [],
+            "tags": [],
+            "target": {
+                "container": "video1",
+                "ext": "mp4",
+                "src": "https://d2f1egay8yehza.cloudfront.net/HarvardXPXM101-V002100_DTH.mp4"
+            },
+            "text": "<a href=\"https://predictionx.org/ben-shneiderman\" target=\"_blank\">Ben Shneiderman Interview</a> ",
+            "totalComments": 0,
+            "updated": "2020-01-16T19:15:08+00:00",
+            "uri": 123,
+            "user": {
+                "id": "admin",
+                "name": "admin"
+            }
+        },
+        {
+            "archived": false,
+            "citation": "None",
+            "collectionId": "None",
+            "contextId": "None",
+            "created": "2020-01-16T19:15:08+00:00",
+            "deleted": false,
+            "id": 31,
+            "media": "video",
+            "parent": "0",
+            "permissions": {
+                "admin": [
+                    "admin"
+                ],
+                "delete": [
+                    "admin"
+                ],
+                "read": [],
+                "update": [
+                    "admin"
+                ]
+            },
+            "quote": "",
+            "rangeTime": {
+                "end": 3543,
+                "start": 3366
+            },
+            "ranges": [],
+            "tags": [
+                "#future_of_the_future"
+            ],
+            "target": {
+                "container": "video1",
+                "ext": "mp4",
+                "src": "https://d2f1egay8yehza.cloudfront.net/HarvardXPXM101-V002100_DTH.mp4"
+            },
+            "text": "Sources for Hope",
+            "totalComments": 0,
+            "updated": "2020-01-16T19:15:08+00:00",
+            "uri": 123,
+            "user": {
+                "id": "admin",
+                "name": "admin"
+            }
+        }
+    ],
+    "size": 30,
+    "total": 30
+}
