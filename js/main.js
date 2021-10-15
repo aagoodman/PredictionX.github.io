@@ -1311,12 +1311,12 @@ function init() {
             }
 
             var fit_data = [];
-            if (bins ==1 ){
-
+            if (bins == 1){
                 fit_data.push({x: 0, y: 0});
             }
 
             else {
+                if (bins != 1){
                 for (i = -ground_width / 2; i <= ground_width / 2; i += ground_width / 500.) {
                 if (maxfreq < 9){
                 fit_data.push({x: i, y: pdf(i)*maxfreq*13});}
@@ -1324,7 +1324,7 @@ function init() {
                 //In order to best estimate a good height for the distribution
                 fit_data.push({x: i, y: pdf(i)*maxfreq*10});
                 }
-             }}
+             }}}
 
 
             return [fit_data, p1];
