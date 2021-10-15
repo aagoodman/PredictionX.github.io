@@ -1,10 +1,2 @@
-# PredictionX
-#From https://github.com/fbecerra/predX
-
-To run this project locally, enter the following command on the terminal:
-* Python 2
-```python -m SimpleHTTPServer 8000```
-* Python 3
-```python -m http.server 8000```
-
-Then go to `localhost:8000` in your favorite web browser and navigate to this folder. You can use any port number, not necessarily 8000.
+# PredictionX.github.io
+This code was taken from Fernando Becerra and modified by Lily Nguyen with permission. The original repository can be found here:https://github.com/fbecerra/predX. Some changes were made in order to fix some bugs with the plot. The code for the probability density function calculation was taken from https://github.com/RichieAHB/normal-distribution#readme. The CSV file code was modified from https://github.com/silverwind.To test the code go to website.
